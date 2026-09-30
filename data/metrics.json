@@ -1,56 +1,246 @@
 {
-  "updated_at": "2026-09-30T15:30:00-04:00",
-  "updated_by": "manual seed (first automated refresh 2026-10-01 06:30 ET)",
-  "business": {"name": "Kettlon Gear", "entity": "Elite-Edge-Analytics, LLC", "amazon_store": "Kettlon Gear", "site": "https://kettlongear.com"},
-  "budget": {
-    "kettlon": {"approved": 20000, "committed": 0, "spent": 0, "items": [
-      {"label": "USPTO trademark filing (KETTLON, SN 50137392)", "amount": 350, "status": "paid"},
-      {"label": "Domain kettlongear.com (Squarespace)", "amount": 20, "status": "paid"},
-      {"label": "Amazon Professional selling plan (monthly)", "amount": 39.99, "status": "recurring"},
-      {"label": "Helium 10 subscription (monthly)", "amount": 0, "status": "unverified"},
-      {"label": "Samples (3 suppliers, est.)", "amount": 300, "status": "planned"},
-      {"label": "Production deposit 30% (1,200 pairs at $3.00-3.75 FOB, est.)", "amount": 1300, "status": "planned"},
-      {"label": "Air freight first run (est.)", "amount": 2200, "status": "planned"},
-      {"label": "Meta ads, $30/day prelaunch", "amount": 900, "status": "monthly run-rate"}
-    ]},
-    "wholesale": {"approved": 20000, "committed": 0, "spent": 0, "items": []}
+  "updated_at": "2026-09-30T15:51-04:00",
+  "updated_by": "Kettlon metrics automation",
+  "business": {
+    "name": "Kettlon Gear",
+    "entity": "Elite-Edge-Analytics, LLC",
+    "amazon_store": "Kettlon Gear",
+    "site": "https://kettlongear.com"
   },
-  "instagram": {"handle": "kettlongear", "followers": null, "following": null, "posts": 1, "stories_posted": 1, "last_story": "2026-09-30", "profile_link_set": false, "note": "Follower counts populate on first automated refresh."},
-  "facebook": {"page": "Kettlon", "page_id": "61594767128954", "linked_to_instagram": true},
-  "ads": {"status": "built, awaiting payment method", "campaign": "Kettlon Prelaunch Traffic", "daily_budget": 30, "spend_to_date": 0, "impressions": 0, "link_clicks": 0, "cpc": null, "landing_page_views": 0, "history": []},
-  "website": {"domain": "kettlongear.com", "http_ok": true, "https_ok": false, "https_note": "GitHub Pages certificate pending", "waitlist_signups": 0, "warranty_forms": 0, "signup_history": []},
-  "email": {"kettlon_inbound_7d": 0, "replied_7d": 0, "awaiting_ken": 0, "held_drafts": ["Fedoris heads-up email (HELD for approval)"]},
-  "amazon": {"account_status": "Identity review pending", "listing_live": false, "units_sold": 0, "sessions": 0, "revenue": 0, "bsr": null, "reviews": 0},
-  "supply_chain": {"stage": "Quotes in, ranking pending", "supplier_quotes": 0, "milestones": [
-      {"label": "Samples ordered", "target": "2026-10-15", "done": false},
-      {"label": "Samples in hand", "target": "2026-10-20", "done": false},
-      {"label": "Production deposit", "target": "2026-10-22", "done": false},
-      {"label": "Production complete", "target": "2026-11-25", "done": false},
-      {"label": "Air freight lands at FBA", "target": "2026-12-15", "done": false},
-      {"label": "Listing live / first sale", "target": "2026-12-18", "done": false}
-  ]},
-  "wholesale_lane": {"status": "Scoping", "gates": [
-      {"label": "Amazon identity verification cleared", "done": false},
-      {"label": "Illinois resale certificate (CRT-61) on file", "done": false},
-      {"label": "Prep center account opened", "done": false},
-      {"label": "Distributor accounts approved", "done": false},
-      {"label": "First 10 SKUs pass ROI screen", "done": false},
-      {"label": "First purchase order placed", "done": false}
-  ], "skus": []},
+  "budget": {
+    "kettlon": {
+      "approved": 20000,
+      "committed": 0,
+      "spent": 0,
+      "items": [
+        {
+          "label": "USPTO trademark filing (KETTLON, SN 50137392)",
+          "amount": 350,
+          "status": "paid"
+        },
+        {
+          "label": "Domain kettlongear.com (Squarespace)",
+          "amount": 20,
+          "status": "paid"
+        },
+        {
+          "label": "Amazon Professional selling plan (monthly)",
+          "amount": 39.99,
+          "status": "recurring"
+        },
+        {
+          "label": "Helium 10 subscription (monthly)",
+          "amount": 0,
+          "status": "unverified"
+        },
+        {
+          "label": "Samples (3 suppliers, est.)",
+          "amount": 300,
+          "status": "planned"
+        },
+        {
+          "label": "Production deposit 30% (1,200 pairs at $3.00-3.75 FOB, est.)",
+          "amount": 1300,
+          "status": "planned"
+        },
+        {
+          "label": "Air freight first run (est.)",
+          "amount": 2200,
+          "status": "planned"
+        },
+        {
+          "label": "Meta ads, $30/day prelaunch",
+          "amount": 900,
+          "status": "monthly run-rate"
+        }
+      ]
+    },
+    "wholesale": {
+      "approved": 20000,
+      "committed": 0,
+      "spent": 0,
+      "items": []
+    }
+  },
+  "instagram": {
+    "handle": "kettlongear",
+    "followers": null,
+    "following": null,
+    "posts": 1,
+    "stories_posted": 1,
+    "last_story": "2026-09-30",
+    "profile_link_set": false,
+    "note": "Follower counts populate on first automated refresh."
+  },
+  "facebook": {
+    "page": "Kettlon",
+    "page_id": "61594767128954",
+    "linked_to_instagram": true
+  },
+  "ads": {
+    "status": "built, awaiting payment method",
+    "campaign": "Kettlon Prelaunch Traffic",
+    "daily_budget": 30,
+    "spend_to_date": 0,
+    "impressions": 0,
+    "link_clicks": 0,
+    "cpc": null,
+    "landing_page_views": 0,
+    "history": []
+  },
+  "website": {
+    "domain": "kettlongear.com",
+    "http_ok": true,
+    "https_ok": false,
+    "https_note": "GitHub Pages certificate pending",
+    "waitlist_signups": 0,
+    "warranty_forms": 0,
+    "signup_history": []
+  },
+  "email": {
+    "kettlon_inbound_7d": 0,
+    "replied_7d": 0,
+    "awaiting_ken": 0,
+    "held_drafts": [
+      "Fedoris heads-up email (HELD for approval)"
+    ]
+  },
+  "amazon": {
+    "account_status": "Identity review pending",
+    "listing_live": false,
+    "units_sold": 0,
+    "sessions": 0,
+    "revenue": 0,
+    "bsr": null,
+    "reviews": 0
+  },
+  "supply_chain": {
+    "stage": "Quotes in, ranking pending",
+    "supplier_quotes": 0,
+    "milestones": [
+      {
+        "label": "Samples ordered",
+        "target": "2026-10-15",
+        "done": false
+      },
+      {
+        "label": "Samples in hand",
+        "target": "2026-10-20",
+        "done": false
+      },
+      {
+        "label": "Production deposit",
+        "target": "2026-10-22",
+        "done": false
+      },
+      {
+        "label": "Production complete",
+        "target": "2026-11-25",
+        "done": false
+      },
+      {
+        "label": "Air freight lands at FBA",
+        "target": "2026-12-15",
+        "done": false
+      },
+      {
+        "label": "Listing live / first sale",
+        "target": "2026-12-18",
+        "done": false
+      }
+    ]
+  },
+  "wholesale_lane": {
+    "status": "Registering",
+    "gates": [
+      {
+        "label": "Amazon identity verification cleared",
+        "done": false
+      },
+      {
+        "label": "Illinois sales tax registration (REG-1) submitted 30 Sep 2026; CRT-61 issuable once account ID arrives",
+        "done": true,
+        "partial": true
+      },
+      {
+        "label": "Prep center account opened",
+        "done": false
+      },
+      {
+        "label": "Distributor accounts approved",
+        "done": false
+      },
+      {
+        "label": "First 10 SKUs pass ROI screen",
+        "done": false
+      },
+      {
+        "label": "First purchase order placed",
+        "done": false
+      }
+    ],
+    "skus": [],
+    "illinois_reg1": {
+      "submitted": "2026-09-30",
+      "entity": "Elite-Edge-Analytics, LLC (DBA Kettlon Gear)",
+      "location": "Chicago (Cook) 01600011R00",
+      "next": "Create MyTax Illinois logon with confirmation code; retrieve account ID; issue CRT-61 to distributors"
+    }
+  },
   "gates": [
-    {"label": "Trademark filed (KETTLON)", "done": true},
-    {"label": "Domain live over HTTP", "done": true},
-    {"label": "HTTPS enforced", "done": false},
-    {"label": "Instagram business profile optimized", "done": true},
-    {"label": "Facebook Page created and linked", "done": true},
-    {"label": "Meta ad published (needs card)", "done": false},
-    {"label": "Amazon identity verification", "done": false},
-    {"label": "Instagram profile link to kettlongear.com (phone)", "done": false},
-    {"label": "Supplier selected", "done": false}
+    {
+      "label": "Trademark filed (KETTLON)",
+      "done": true
+    },
+    {
+      "label": "Domain live over HTTP",
+      "done": true
+    },
+    {
+      "label": "HTTPS enforced",
+      "done": false
+    },
+    {
+      "label": "Instagram business profile optimized",
+      "done": true
+    },
+    {
+      "label": "Facebook Page created and linked",
+      "done": true
+    },
+    {
+      "label": "Meta ad published (needs card)",
+      "done": false
+    },
+    {
+      "label": "Amazon identity verification",
+      "done": false
+    },
+    {
+      "label": "Instagram profile link to kettlongear.com (phone)",
+      "done": false
+    },
+    {
+      "label": "Supplier selected",
+      "done": false
+    }
   ],
   "log": [
-    {"date": "2026-09-30", "text": "Facebook Page Kettlon created and linked to @kettlongear. Meta ad built, waiting on card."},
-    {"date": "2026-09-30", "text": "First Instagram story posted. Daily story automation live from Oct 1, 7:30 AM ET."},
-    {"date": "2026-09-30", "text": "kettlongear.com DNS live on GitHub Pages. Squarespace registrant email verified."}
+    {
+      "date": "2026-09-30",
+      "text": "Illinois REG-1 sales and use tax registration submitted by Ken via MyTax Illinois (Chicago/Cook changing location). Awaiting account ID for CRT-61 resale certificates."
+    },
+    {
+      "date": "2026-09-30",
+      "text": "Facebook Page Kettlon created and linked to @kettlongear. Meta ad built, waiting on card."
+    },
+    {
+      "date": "2026-09-30",
+      "text": "First Instagram story posted. Daily story automation live from Oct 1, 7:30 AM ET."
+    },
+    {
+      "date": "2026-09-30",
+      "text": "kettlongear.com DNS live on GitHub Pages. Squarespace registrant email verified."
+    }
   ]
 }
