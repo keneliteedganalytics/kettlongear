@@ -1,0 +1,323 @@
+{
+ "start": "2026-09-30",
+ "pillars": {
+  "fit": "Why sizing matters for a wrist guard",
+  "build": "Building the product in public: samples, factory, packaging",
+  "train": "Kettlebell technique notes that relate to the wrist",
+  "ask": "Questions that drive replies and DMs",
+  "brand": "Who Kettlon is and what we stand for"
+ },
+ "days": [
+  {
+   "template": "mark",
+   "pillar": "brand",
+   "kicker": "Launch notice",
+   "headline": "Kettlebell wrist guards that fit.",
+   "body": "Three sizes. Removable 7 mm insert. Launching on Amazon early 2027. Register your pair at kettlongear.com and we tell you the day it goes live.",
+   "cta": "kettlongear.com",
+   "caption": "Kettlon is live. Register at kettlongear.com."
+  },
+  {
+   "template": "statement",
+   "pillar": "fit",
+   "kicker": "The problem",
+   "headline": "Every wrist guard on the market comes in one size.",
+   "body": "A 5.5 inch wrist and an 8.5 inch wrist are wearing the same sleeve. One of them slides. The other cuts off circulation. We measured both.",
+   "cta": "Sized S, M, L at kettlongear.com"
+  },
+  {
+   "template": "spec",
+   "pillar": "fit",
+   "kicker": "Sizing",
+   "headline": "Find your size in ten seconds.",
+   "rows": [
+    [
+     "S",
+     "Wrist 5.5 to 6.5 inches"
+    ],
+    [
+     "M",
+     "Wrist 6.5 to 7.5 inches"
+    ],
+    [
+     "L",
+     "Wrist 7.5 to 8.75 inches"
+    ]
+   ],
+   "body": "Measure around the wrist bone with a tape or a strip of paper. A printed sizing card ships in every pack.",
+   "cta": "Register your size at kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "What is your wrist size?",
+   "body": "Measure around the wrist bone. We are setting the S, M, L split for the first production run on your answers.",
+   "prompt": "Reply with inches or cm"
+  },
+  {
+   "template": "statement",
+   "pillar": "train",
+   "kicker": "Technique note",
+   "headline": "The bell lands on the same two inches of forearm every rep.",
+   "body": "Snatch, clean, or bottoms up, the contact point barely moves. That is why the Kettlon insert is 4 by 3.5 inches and sits exactly there, not spread across the whole sleeve.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "build",
+   "kicker": "Building in public",
+   "headline": "Samples are on the way from three factories.",
+   "body": "We asked each one for the same spec: 3 mm neoprene shell, mesh liner, 7 mm closed cell insert in a hook and loop pocket. The best pair becomes the product. You will see all three.",
+   "cta": "Follow along at kettlongear.com"
+  },
+  {
+   "template": "spec",
+   "pillar": "fit",
+   "kicker": "What is in the pack",
+   "headline": "Everything in the box.",
+   "rows": [
+    [
+     "2",
+     "Guards, sized to your wrist"
+    ],
+    [
+     "2",
+     "Removable 7 mm inserts"
+    ],
+    [
+     "1",
+     "Sizing card and 90 second fit video"
+    ]
+   ],
+   "body": "Sold as a pair. One year warranty handled by us, not a marketplace form.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "Insert in, or insert out?",
+   "body": "Some people want padding for snatch day and a bare sleeve for swings and presses. The Kettlon insert comes out in two seconds. How would you use it?",
+   "prompt": "Reply: IN or OUT"
+  },
+  {
+   "template": "statement",
+   "pillar": "brand",
+   "kicker": "Why Kettlon",
+   "headline": "We are kettlebell people who got tired of taping our forearms.",
+   "body": "Kettlon started in a garage gym in Pennsylvania. The first product is the one we wanted to buy and could not find. More will follow, all of them sized.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "train",
+   "kicker": "Technique note",
+   "headline": "A bruised forearm is a timing problem before it is a padding problem.",
+   "body": "If the bell slaps, the hand is late getting through the handle. A guard buys you time to fix that without losing training days. It is not a substitute for the fix.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "spec",
+   "pillar": "fit",
+   "kicker": "Materials",
+   "headline": "What it is made of.",
+   "rows": [
+    [
+     "3 mm",
+     "Neoprene shell, 4 way stretch nylon face"
+    ],
+    [
+     "7 mm",
+     "Closed cell EVA insert, radiused corners"
+    ],
+    [
+     "6 in",
+     "Coverage from the wrist crease toward the elbow"
+    ]
+   ],
+   "body": "Moisture wicking mesh liner with an antimicrobial finish. Adjustable strap at the forearm, elastic at the wrist.",
+   "cta": "Full spec at kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "Which lift wrecks your forearm?",
+   "body": "Snatch, clean, bottoms up press, or long cycle. We are cutting the fit video around the most common answer.",
+   "prompt": "Reply with your lift"
+  },
+  {
+   "template": "statement",
+   "pillar": "build",
+   "kicker": "Building in public",
+   "headline": "First production run: 1,200 pairs.",
+   "body": "Planned split is 300 small, 600 medium, 300 large. Your replies on wrist size can still move those numbers before we place the order.",
+   "cta": "Register your size at kettlongear.com"
+  },
+  {
+   "template": "mark",
+   "pillar": "brand",
+   "kicker": "Reminder",
+   "headline": "Register your pair. We email you the day it goes live.",
+   "body": "No newsletter, no discount spam. One email when the listing is up and one when the two pack lands.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "fit",
+   "kicker": "The problem",
+   "headline": "One size fits all means it fits the median and slips on everyone else.",
+   "body": "We read every one star review on page one of Amazon before drawing the first pattern. Fit is where the sizes came from.",
+   "cta": "Sized S, M, L at kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "train",
+   "kicker": "Technique note",
+   "headline": "Guards on for volume days. Guards off for skill days.",
+   "body": "High rep snatch tests are where forearms get shredded. Skill work at low reps is where you feel the bell. Sized sleeves make the swap painless.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "Black with which accent color?",
+   "body": "The shell is black. The stitching and the wordmark are one accent color. Orange is our house color. Convince us otherwise.",
+   "prompt": "Reply with a color"
+  },
+  {
+   "template": "spec",
+   "pillar": "build",
+   "kicker": "Building in public",
+   "headline": "Our launch timeline.",
+   "rows": [
+    [
+     "Oct",
+     "Samples land, fit tested on real wrists"
+    ],
+    [
+     "Nov",
+     "Production, 25 to 30 days"
+    ],
+    [
+     "Dec",
+     "Air freight to Amazon, listing goes live"
+    ]
+   ],
+   "body": "Dates move if a sample fails. We would rather ship late than ship a sleeve that slips.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "brand",
+   "kicker": "Why Kettlon",
+   "headline": "Every Kettlon product will be sized. That is the whole brand.",
+   "body": "Wrist guards first. If they earn their place, sized grip and forearm gear follows. Nothing one size fits all with our name on it.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "train",
+   "kicker": "Technique note",
+   "headline": "Measure your wrist at the bone, not below it.",
+   "body": "The widest point is what the sleeve has to clear. Measure loose, not tight. If you land between two sizes, go up if you want the insert over more of the forearm.",
+   "cta": "Sizing chart at kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "Single pair or two pack?",
+   "body": "Two pack is one for the gym bag, one for home, at a lower price per pair. We are deciding whether it launches on day one.",
+   "prompt": "Reply: ONE or TWO"
+  },
+  {
+   "template": "statement",
+   "pillar": "build",
+   "kicker": "Building in public",
+   "headline": "We are testing the insert pocket to 500 open and close cycles.",
+   "body": "Hook and loop wears out. The pocket closure has to survive a year of daily swaps or it does not go in the product.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "spec",
+   "pillar": "fit",
+   "kicker": "Compare",
+   "headline": "What is different.",
+   "rows": [
+    [
+     "Fit",
+     "Three sizes, not one"
+    ],
+    [
+     "Insert",
+     "Removable, replaceable, 7 mm"
+    ],
+    [
+     "Spec",
+     "Published in full, every dimension"
+    ]
+   ],
+   "body": "Nobody on page one of Amazon offers all three. That is the reason this product exists.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "brand",
+   "kicker": "Who it is for",
+   "headline": "Hardstyle, sport, or just training in the garage.",
+   "body": "If a kettlebell lands on your forearm, this is for you. Coaches and gym owners: ask us about sized sets for your members.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "How do you protect your forearms today?",
+   "body": "Tape, sweatbands, a one size sleeve, or nothing at all. Honest answers help us write the fit guide.",
+   "prompt": "Reply and tell us"
+  },
+  {
+   "template": "statement",
+   "pillar": "train",
+   "kicker": "Technique note",
+   "headline": "Warm forearms bruise less than cold ones.",
+   "body": "Two minutes of light swings and wrist circles before snatch work is the cheapest protection you own. A guard is the second cheapest.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "statement",
+   "pillar": "build",
+   "kicker": "Building in public",
+   "headline": "Packaging: a flat mailer, not a box.",
+   "body": "A 9 by 6 inch printed mailer keeps the pair in Amazon's small standard tier, which keeps the price down. Less cardboard, same protection.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "mark",
+   "pillar": "brand",
+   "kicker": "Reminder",
+   "headline": "Amazon, early 2027. Register now and be first in line.",
+   "body": "The people on the list get the launch price. Everyone else gets the listing price.",
+   "cta": "kettlongear.com"
+  },
+  {
+   "template": "question",
+   "pillar": "ask",
+   "kicker": "Tell us",
+   "headline": "Would you buy a sized guard for a training partner?",
+   "body": "We are considering a mixed size two pack for couples and coaches. Tell us the two sizes you would pick.",
+   "prompt": "Reply with two sizes"
+  },
+  {
+   "template": "statement",
+   "pillar": "fit",
+   "kicker": "The promise",
+   "headline": "If the size is wrong, we swap it. No form, no fee.",
+   "body": "Sizing is the point of the brand, so we own it. Email us the size you got and the size you need and the right pair ships.",
+   "cta": "kettlongear.com"
+  }
+ ]
+}
