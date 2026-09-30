@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:51-04:00",
+  "updated_at": "2026-09-30T15:55-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -171,7 +171,7 @@
         "done": false
       },
       {
-        "label": "First 10 SKUs pass ROI screen",
+        "label": "First 10 SKUs pass ROI screen (5 tier-1 candidates identified, quotes pending)",
         "done": false
       },
       {
@@ -179,12 +179,96 @@
         "done": false
       }
     ],
-    "skus": [],
+    "skus": [
+      {
+        "asin": "B0D6ZY8Z2L",
+        "title": "Genuine Oil Filter 90915-YZZD3 with APSG Drain Plug Washers | 3 PACK |",
+        "category": "Automotive",
+        "bsr": "#3,629",
+        "price": "$25.97",
+        "asin_sales_mo": "1,338",
+        "asin_rev_mo": "$34,746.45",
+        "max_buy_cost": 12.26,
+        "lane": "OEM auto parts",
+        "source": "Toyota dealer wholesale parts desks (Modern Toyota Wholesale Direct lists 90915-YZZD3 at $5.99)",
+        "source_url": "https://wholesaledirect.moderntoyota.com/oil-filters",
+        "status": "Quote requested? No (awaiting Ken approval for supplier outreach)",
+        "note": "Source the Toyota filter from a dealer wholesale desk and list on the Toyota-branded ASIN, not the APSG bundle (APSG may be brand-registered). Est. landed cost about $7 vs max buy cost $12.26."
+      },
+      {
+        "asin": "B00MNMDO3S",
+        "title": "Wahl Professional Animal Pocket Pro Equine Trimmer Kit, Blue",
+        "category": "Pet Supplies",
+        "bsr": "#17,368",
+        "price": "$15.99",
+        "asin_sales_mo": "673",
+        "asin_rev_mo": "$10,755.63",
+        "max_buy_cost": 5.47,
+        "lane": "Wahl animal grooming",
+        "source": "Wahl Professional Animal retail partner program (partners@wahlanimal.com) or pet/farm distributors",
+        "source_url": "https://www.wahlpro.com/animal-partnerships",
+        "status": "Quote requested? No (awaiting Ken approval for supplier outreach)",
+        "note": "Established brand with an open reseller program. Margin is tight: max buy cost $5.47 on a $15.99 item, so only viable if Wahl or a distributor quotes under about $5.50. Request quote before committing."
+      },
+      {
+        "asin": "B00NIEAN2A",
+        "title": "CARPRO Eraser Polish & Oil Remover - Ceramic Coating Prep, Complete Re",
+        "category": "Automotive",
+        "bsr": "#17,940",
+        "price": "$24.97",
+        "asin_sales_mo": "232",
+        "asin_rev_mo": "$5,793.82",
+        "max_buy_cost": 11.58,
+        "lane": "CarPro detailing",
+        "source": "CarPro-US (Sky's the Limit Car Care) business accounts",
+        "source_url": "https://www.carpro-us.com/for-businesses/",
+        "status": "Quote requested? No (awaiting Ken approval for supplier outreach)",
+        "note": "Authorized US distributor offers business accounts. Low volume (232/mo) but ungated and repeat-purchase. Ask for the full CarPro price list; several CarPro ASINs likely clear the screen."
+      },
+      {
+        "asin": "B0D7JYJ99S",
+        "title": "Repashy Grubs 'N' Fruit Crested Gecko Diet 6 Oz JAR",
+        "category": "Pet Supplies",
+        "bsr": "#9,362",
+        "price": "$20.99",
+        "asin_sales_mo": "518",
+        "asin_rev_mo": "$9,323.08",
+        "max_buy_cost": 8.87,
+        "lane": "Repashy reptile diets",
+        "source": "Reptile Supply Co. wholesale (lists Repashy at bulk prices)",
+        "source_url": "https://www.reptilesupplyco.com/7_repashy",
+        "status": "Quote requested? No (awaiting Ken approval for supplier outreach)",
+        "note": "Niche brand with a US wholesale channel. Max buy cost $8.87 on $20.99; typical wholesale is about half of MSRP, so marginal. Quote needed."
+      },
+      {
+        "asin": "B0DKB3TXX5",
+        "title": "AFP Full-Brim Tinted Smoke Polyurethane Plastic Sun Shield Hard Hat Vi",
+        "category": "Tools & Home Improvement",
+        "bsr": "#13,348",
+        "price": "$19.99",
+        "asin_sales_mo": "1,091",
+        "asin_rev_mo": "$21,807.27",
+        "max_buy_cost": 8.19,
+        "lane": "Safety PPE",
+        "source": "American Safety Distributors (Miami, FL) is the seller; ask for reseller pricing or source AFP sun shields from safety wholesalers",
+        "source_url": "https://www.americansafetydist.com/",
+        "status": "Quote requested? No (awaiting Ken approval for supplier outreach)",
+        "note": "1,091/mo on an ungated industrial item. The current seller is itself a distributor, which usually means a reseller price list exists."
+      }
+    ],
     "illinois_reg1": {
       "submitted": "2026-09-30",
       "entity": "Elite-Edge-Analytics, LLC (DBA Kettlon Gear)",
       "location": "Chicago (Cook) 01600011R00",
       "next": "Create MyTax Illinois logon with confirmation code; retrieve account ID; issue CRT-61 to distributors"
+    },
+    "scan": {
+      "date": "2026-09-30",
+      "tool": "Helium 10 Black Box",
+      "rows_scanned": 200,
+      "filters": "FBA, 3-8 sellers, no Amazon, price $15-45, BSR<25k, ASIN rev>$5k, reviews>200, age>12mo, <3 lb, <=3 variations",
+      "passed_screen": 27,
+      "tier1": 5
     }
   },
   "gates": [
@@ -226,6 +310,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-09-30",
+      "text": "Wholesale scan: 200 Black Box rows screened, 27 passed, 5 tier-1 candidates staged for supplier quotes (Toyota OEM filter, Wahl, CarPro, Repashy, AFP PPE). Awaiting Ken approval for outreach."
+    },
     {
       "date": "2026-09-30",
       "text": "Illinois REG-1 sales and use tax registration submitted by Ken via MyTax Illinois (Chicago/Cook changing location). Awaiting account ID for CRT-61 resale certificates."
