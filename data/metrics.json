@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:35-04:00",
+  "updated_at": "2026-09-30T17:28-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -222,7 +222,7 @@
         "lane": "CarPro detailing",
         "source": "CarPro-US (Sky's the Limit Car Care) business accounts",
         "source_url": "https://www.carpro-us.com/for-businesses/",
-        "status": "Quote requested 30 Sep 2026",
+        "status": "Declined by CarPro-US 30 Sep 2026 (no Amazon resellers); replacement needed",
         "note": "Authorized US distributor offers business accounts. Low volume (232/mo) but ungated and repeat-purchase. Ask for the full CarPro price list; several CarPro ASINs likely clear the screen."
       },
       {
@@ -273,7 +273,7 @@
     "outreach": {
       "sent": 5,
       "sent_date": "2026-09-30",
-      "replies": 0,
+      "replies": 1,
       "followup_1_due": "2026-10-05",
       "followup_2_due": "2026-10-12"
     }
@@ -317,6 +317,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-09-30",
+      "text": "CarPro-US declined reseller account 30 Sep 2026 (no Amazon resellers). Thank-you sent. Squarespace ICANN contact verification for kettlongear.com completed. Inbox handler scope widened; twice-daily inbox sweep added."
+    },
     {
       "date": "2026-09-30",
       "text": "IDOR processed REG-1 30 Sep 2026: business income tax and sales/use tax accounts assigned. MyTax logon activation waits one full business day; retry scheduled 2 Oct 2026 9:00 AM ET."
