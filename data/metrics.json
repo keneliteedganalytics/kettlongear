@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:19-04:00",
+  "updated_at": "2026-09-30T16:35-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -317,6 +317,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-09-30",
+      "text": "IDOR processed REG-1 30 Sep 2026: business income tax and sales/use tax accounts assigned. MyTax logon activation waits one full business day; retry scheduled 2 Oct 2026 9:00 AM ET."
+    },
     {
       "date": "2026-09-30",
       "text": "Wholesale lane: all five supplier outreach messages delivered 30 Sep 2026 (Toyota web form lead 14637, CarPro email + site account, Wahl distributor form, Reptile Supply email, ASD web form). Follow-ups scheduled 5 Oct and 12 Oct."
