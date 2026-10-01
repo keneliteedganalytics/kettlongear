@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:03-04:00",
+  "updated_at": "2026-10-01T09:16-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -322,6 +322,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-01",
+      "text": "Supplier follow-up check 1 Oct: no new wholesale replies (1 of 5, CarPro decline). Follow-up 1 due 5 Oct."
+    },
     {
       "date": "2026-10-01",
       "text": "New quote: Shenzhenshi Chuangxinhai Craft stadium cushion $2.23 related-product listing only, unconfirmed; Mia Deng greeting received. Alibaba browser unavailable."
