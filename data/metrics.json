@@ -324,6 +324,10 @@
   "log": [
     {
       "date": "2026-10-01",
+      "text": "New quote: Shenzhen Beone / Sammia Zhu stadium cushion sample $100 per piece, currency unconfirmed, one red sample maximum; details requested, no purchase approved"
+    },
+    {
+      "date": "2026-10-01",
       "text": "Alibaba: no saved payment card (checked 1 Oct 11:10 ET); default ship-to added, 126 Parkview Drive Sewickley PA 15143-9105. Add card screen handed to Ken."
     },
     {
@@ -381,6 +385,29 @@
   ],
   "supplier_quotes": [
     {
+      "supplier": "Shenzhen Beone Handbags Manufacturing Co., Ltd. / Sammia Zhu",
+      "product": "Stadium seat cushion sample, red only",
+      "unit_price": null,
+      "currency": null,
+      "quantity_tiers": null,
+      "moq": null,
+      "sample_cost": 100,
+      "price": "$100 per sample piece; currency unconfirmed",
+      "sample_quantity_limit": 1,
+      "lead_time": null,
+      "payment_terms": null,
+      "date": "2026-10-01 09:46",
+      "date_timezone": "Not independently verified; Alibaba displayed time",
+      "channel": "alibaba",
+      "conversation_id": "202217291",
+      "inquiry_id": "20507187174",
+      "freight": null,
+      "trade_assurance_link": null,
+      "replied": true,
+      "status": "Awaiting total sample cost, specifications, lead times and review link; no order or payment authorized",
+      "notes": "Supplier offers at most one red sample, not the requested three colors. Currency, customization and shipping inclusion are unconfirmed. Follow-up sent 1 Oct 2026 at displayed 11:13. Ken must decide whether to proceed."
+    },
+    {
       "supplier": "Shenzhenshi Chuangxinhai Craft Co., Ltd. / Mia Deng",
       "product": "Oxford fabric foldable stadium seat cushion with carry handle",
       "unit_price": 2.23,
@@ -410,7 +437,11 @@
       "sample_cost": "requested",
       "lead_time": "requested",
       "channel": "alibaba",
-      "status": "Below 3.75 target; full quote ladder and samples requested 1 Oct 2026"
+      "status": "USD 2.30 is below the numerical target, but FOB basis is unconfirmed and product is not to specification. Supplier confirmed one size and PP protector on 1 Oct 2026; custom S/M/L removable EVA version feasibility and re-quote requested.",
+      "conversation_id": "251280464",
+      "currency": "USD",
+      "unit_price": 2.3,
+      "replied": true
     },
     {
       "date": "2026-09-30",
@@ -432,7 +463,7 @@
       "sample_cost": "requested",
       "lead_time": "requested",
       "channel": "alibaba",
-      "status": "Spec confirmed, full quote requested 1 Oct 2026"
+      "status": "Not a viable wrist-guard supplier. Joy Pang stated 1 Oct 2026 at displayed 09:44 that the factory does not make neoprene kettlebell wrist guards or protective accessories, contradicting its earlier response. Do not treat the placeholder as a quote."
     },
     {
       "date": "2026-09-30",
