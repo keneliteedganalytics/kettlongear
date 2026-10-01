@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:19-04:00",
+  "updated_at": "2026-10-01T11:57-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -168,8 +168,9 @@
         "partial": true
       },
       {
-        "label": "Prep center account opened",
-        "done": false
+        "label": "Prep center account requested 1 Oct 2026 (Smart Prep Center, Delaware); awaiting onboarding",
+        "done": false,
+        "partial": true
       },
       {
         "label": "Distributor accounts approved",
@@ -322,6 +323,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-01",
+      "text": "Prep center: Smart Prep Center (Newark DE) account requested 1 Oct 2026, StartUp wholesale rate 0.50/unit, reply due within 1 business day"
+    },
     {
       "date": "2026-10-01",
       "text": "Cushion comparison saved: Beone $100 one red sample, currency and delivered total unconfirmed; Funihe USD 3 indicative RFQ, custom spec unconfirmed; Chuangxinhai thickness mismatch; Mydays holiday response pending. Track complete offers and Trade Assurance links without purchase approval."
@@ -564,5 +569,14 @@
       "Shenzhenshi Chuangxinhai (Mia Deng)"
     ],
     "note": "China National Day holiday 1 to 8 Oct 2026 will slow replies"
+  },
+  "prep_center": {
+    "name": "Smart Prep Center",
+    "location": "Newark, Delaware (no sales tax)",
+    "status": "Account requested 1 Oct 2026 via website quote form; reply promised within 1 business day",
+    "rate": "StartUp wholesale 0.50 USD/unit first 2 months; free parcel and pallet receiving; 14 days free storage; no minimums",
+    "contact": "info@smartprepcenter.com, +1 862-256-7073",
+    "portal": "https://prep.smartprepcenter.com/",
+    "source": "https://smartprepcenter.com/pricing"
   }
 }
