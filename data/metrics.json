@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T09:16-04:00",
+  "updated_at": "2026-10-01T11:04-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -322,6 +322,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-01",
+      "text": "Authority set 1 Oct 2026: autonomous operation; approval needed only for commitments over 1,000 USD. Power Tiger and Dleap asked to issue Trade Assurance sample links today."
+    },
     {
       "date": "2026-10-01",
       "text": "Supplier follow-up check 1 Oct: no new wholesale replies (1 of 5, CarPro decline). Follow-up 1 due 5 Oct."
