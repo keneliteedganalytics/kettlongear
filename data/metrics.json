@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:04-04:00",
+  "updated_at": "2026-10-01T11:14-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -322,6 +322,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-01",
+      "text": "Alibaba: no saved payment card (checked 1 Oct 11:10 ET); default ship-to added, 126 Parkview Drive Sewickley PA 15143-9105. Add card screen handed to Ken."
+    },
     {
       "date": "2026-10-01",
       "text": "Authority set 1 Oct 2026: autonomous operation; approval needed only for commitments over 1,000 USD. Power Tiger and Dleap asked to issue Trade Assurance sample links today."
