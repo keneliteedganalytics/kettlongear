@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:28-04:00",
+  "updated_at": "2026-10-01T09:42-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -318,6 +318,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-01",
+      "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
+    },
+    {
       "date": "2026-09-30",
       "text": "CarPro-US declined reseller account 30 Sep 2026 (no Amazon resellers). Thank-you sent. Squarespace ICANN contact verification for kettlongear.com completed. Inbox handler scope widened; twice-daily inbox sweep added."
     },
@@ -349,5 +353,62 @@
       "date": "2026-09-30",
       "text": "kettlongear.com DNS live on GitHub Pages. Squarespace registrant email verified."
     }
-  ]
+  ],
+  "supplier_quotes": [
+    {
+      "date": "2026-09-30",
+      "supplier": "Rizhao Power Tiger Fitness Co., Ltd. (Hu Zeng)",
+      "product": "Kettlebell wrist guard, PP protector + neoprene",
+      "price": "USD 2.30 per pair",
+      "moq": "1,200 pairs",
+      "sample_cost": "requested",
+      "lead_time": "requested",
+      "channel": "alibaba",
+      "status": "Below 3.75 target; full quote ladder and samples requested 1 Oct 2026"
+    },
+    {
+      "date": "2026-09-30",
+      "supplier": "Topko Product Group Ltd. (Liam)",
+      "product": "Adjustable wrist brace (generic, not to spec)",
+      "price": "USD 0.99 per piece",
+      "moq": "1,000 pieces",
+      "sample_cost": "requested",
+      "lead_time": "requested",
+      "channel": "alibaba",
+      "status": "Asked to re-quote against Kettlon spec 1 Oct 2026"
+    },
+    {
+      "date": "2026-09-30",
+      "supplier": "Shandong Dleap Fitness Tech (Joy Pang)",
+      "product": "Wrist guard (RFQ placeholder quote)",
+      "price": "USD 5.00 (placeholder, wrong unit)",
+      "moq": "n/a",
+      "sample_cost": "requested",
+      "lead_time": "requested",
+      "channel": "alibaba",
+      "status": "Spec confirmed, full quote requested 1 Oct 2026"
+    },
+    {
+      "date": "2026-09-30",
+      "supplier": "Henan Funihe International Trade (Ru)",
+      "product": "Stadium seat cushion (RFQ)",
+      "price": "USD 3.00 per piece",
+      "moq": "3 pieces (RFQ)",
+      "sample_cost": "requested",
+      "lead_time": "requested",
+      "channel": "alibaba",
+      "status": "Sample ship request sent 30 Sep; awaiting TA link"
+    }
+  ],
+  "supplier_pipeline": {
+    "wrist_guard_suppliers_active": 5,
+    "cushion_suppliers_active": 4,
+    "awaiting_manager_or_holiday": [
+      "Yangzhou Bases (Sophia Ye)",
+      "Shenzhen Beone (Sammia Zhu)",
+      "Changzhou Mydays (Luna Lu, holiday to ~8 Oct)",
+      "Shenzhenshi Chuangxinhai (Mia Deng)"
+    ],
+    "note": "China National Day holiday 1 to 8 Oct 2026 will slow replies"
+  }
 }
