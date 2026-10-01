@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:14-04:00",
+  "updated_at": "2026-10-01T11:19-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -324,6 +324,10 @@
   "log": [
     {
       "date": "2026-10-01",
+      "text": "Cushion comparison saved: Beone $100 one red sample, currency and delivered total unconfirmed; Funihe USD 3 indicative RFQ, custom spec unconfirmed; Chuangxinhai thickness mismatch; Mydays holiday response pending. Track complete offers and Trade Assurance links without purchase approval."
+    },
+    {
+      "date": "2026-10-01",
       "text": "New quote: Shenzhen Beone / Sammia Zhu stadium cushion sample $100 per piece, currency unconfirmed, one red sample maximum; details requested, no purchase approved"
     },
     {
@@ -404,7 +408,7 @@
       "freight": null,
       "trade_assurance_link": null,
       "replied": true,
-      "status": "Awaiting total sample cost, specifications, lead times and review link; no order or payment authorized",
+      "status": "Manager confirmation pending as of 1 Oct 2026 displayed 11:14; awaiting total sample cost, specifications, lead times and review link; no order or payment authorized",
       "notes": "Supplier offers at most one red sample, not the requested three colors. Currency, customization and shipping inclusion are unconfirmed. Follow-up sent 1 Oct 2026 at displayed 11:13. Ken must decide whether to proceed."
     },
     {
@@ -477,6 +481,79 @@
       "status": "Sample ship request sent 30 Sep; awaiting TA link"
     }
   ],
+  "cushion_supplier_comparison": {
+    "checked_at": "2026-10-01T11:17:00-04:00",
+    "status": "Provisional; no complete comparable quote or verified delivered sample cost",
+    "decision": "Do not select a winner or authorize purchases until specification, delivered sample cost, lead time and commercial terms are verified.",
+    "suppliers": [
+      {
+        "supplier": "Shenzhen Beone / Sammia Zhu",
+        "product": "Stadium seat cushion",
+        "sample_cost": 100,
+        "currency": null,
+        "sample_quantity": 1,
+        "sample_color": "Red only",
+        "freight": null,
+        "delivered_sample_cost": null,
+        "trade_assurance_link": null,
+        "production_prices": null,
+        "lead_time": null,
+        "specification_fit": "Unconfirmed; offered sample does not meet the requested three-color sample set",
+        "next_action": "Await manager details, verify sample construction, currency, customization, shipping, delivered total and link; compare before presenting a sample decision to Ken."
+      },
+      {
+        "supplier": "Henan Funihe / Ru Ru",
+        "product": "Stadium seat cushion",
+        "indicative_unit_price": 3,
+        "currency": "USD",
+        "indicative_minimum": 3,
+        "price_basis": "Existing RFQ card, not a verified quote for the custom specification",
+        "sample_cost": null,
+        "freight": null,
+        "delivered_sample_cost": null,
+        "trade_assurance_link": null,
+        "production_prices": null,
+        "lead_time": null,
+        "specification_fit": "Requested dimensions and construction not yet confirmed",
+        "next_action": "Await response to the existing dimension, sample and price-ladder request; avoid duplicate outreach."
+      },
+      {
+        "supplier": "Shenzhenshi Chuangxinhai / Mia Deng",
+        "product": "Stadium seat cushion",
+        "verified_unit_price": null,
+        "sample_cost": null,
+        "freight": null,
+        "delivered_sample_cost": null,
+        "trade_assurance_link": null,
+        "production_prices": null,
+        "lead_time": null,
+        "specification_fit": "Supplier reports standard thickness 1 cm and says 6 cm is too thick to fold; requested standard and 4 cm dual-density alternatives remain unconfirmed",
+        "excluded_price": "$2.23 related listing card is not a negotiated supplier quote",
+        "next_action": "Await the existing alternative-construction request; verify thickness, foam density and packed dimensions before price ranking."
+      },
+      {
+        "supplier": "Changzhou Mydays / Luna Lu",
+        "product": "Stadium seat cushion",
+        "verified_unit_price": null,
+        "sample_cost": null,
+        "freight": null,
+        "delivered_sample_cost": null,
+        "trade_assurance_link": null,
+        "production_prices": null,
+        "lead_time": null,
+        "specification_fit": "Unconfirmed",
+        "next_action": "Await supplier response after its stated National Day holiday; monitor without repeated requests."
+      }
+    ],
+    "comparison_gates": [
+      "Compare the same finished dimensions, foam construction, cover, non-slip base, strap and packing method",
+      "Separate sample cost, customization, express freight and any other fees; verify currency and calculate delivered total",
+      "Compare production unit prices at 500, 1000 and 2000 pieces with the same shipping basis",
+      "Verify sample preparation, transit and production lead times, compliance documents and Amazon preparation capability",
+      "Record Trade Assurance review links without approving or paying",
+      "Update supplier records and comparison when new details arrive; report unresolved decisions to Ken"
+    ]
+  },
   "supplier_pipeline": {
     "wrist_guard_suppliers_active": 5,
     "cushion_suppliers_active": 4,
