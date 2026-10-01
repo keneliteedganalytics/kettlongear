@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T09:42-04:00",
+  "updated_at": "2026-10-01T09:16-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -92,21 +92,26 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-01)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
-    "signup_history": []
+    "signup_history": [
+      {
+        "date": "2026-10-01",
+        "signups": 0
+      }
+    ]
   },
   "email": {
-    "kettlon_inbound_7d": 0,
-    "replied_7d": 0,
+    "kettlon_inbound_7d": 21,
+    "replied_7d": 2,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
     ]
   },
   "amazon": {
-    "account_status": "Identity review pending",
+    "account_status": "Identity review pending (face/ID images cleared 30 Sep; remaining info under review)",
     "listing_live": false,
     "units_sold": 0,
     "sessions": 0,
@@ -319,7 +324,15 @@
   "log": [
     {
       "date": "2026-10-01",
-      "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
+      "text": "Supplier follow-up check 1 Oct: no new wholesale replies (1 of 5, CarPro decline). Follow-up 1 due 5 Oct."
+    },
+    {
+      "date": "2026-10-01",
+      "text": "New quote: Shenzhenshi Chuangxinhai Craft stadium cushion $2.23 related-product listing only, unconfirmed; Mia Deng greeting received. Alibaba browser unavailable."
+    },
+    {
+      "date": "2026-10-01",
+      "text": "Metrics refresh: 21 Kettlon inbound emails in 7d (mostly Alibaba supplier messages), 2 replied, 0 awaiting. Amazon face/ID images cleared 30 Sep, rest of identity review pending. 0 waitlist/warranty forms. HTTPS cert still pending. Instagram counts not reachable today (HTTP 429, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
       "date": "2026-09-30",
@@ -352,9 +365,34 @@
     {
       "date": "2026-09-30",
       "text": "kettlongear.com DNS live on GitHub Pages. Squarespace registrant email verified."
+    },
+    {
+      "date": "2026-10-01",
+      "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
     }
   ],
   "supplier_quotes": [
+    {
+      "supplier": "Shenzhenshi Chuangxinhai Craft Co., Ltd. / Mia Deng",
+      "product": "Oxford fabric foldable stadium seat cushion with carry handle",
+      "unit_price": 2.23,
+      "currency": null,
+      "quantity_tiers": null,
+      "moq": null,
+      "sample_cost": null,
+      "lead_time": null,
+      "payment_terms": null,
+      "date": "2026-10-01T11:01:12+00:00",
+      "channel": "email",
+      "thread_id": "1a0f7202ec1e2e96",
+      "email_id": "1a0f7202ec1e2e96",
+      "price_type": "related_product_listing_not_supplier_quote",
+      "status": "unconfirmed",
+      "freight": null,
+      "trade_assurance_link": null,
+      "replied": false,
+      "notes": "Notification shows $2.23 on a related product card. Currency code and price basis were not specified. Supplier message is only hello. This is not a negotiated quote or confirmed unit price. Local Alibaba browser unavailable; full conversation not read. Notification-only sender was not replied to."
+    },
     {
       "date": "2026-09-30",
       "supplier": "Rizhao Power Tiger Fitness Co., Ltd. (Hu Zeng)",
