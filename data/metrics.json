@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T06:31-04:00",
+  "updated_at": "2026-10-01T07:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -324,6 +324,10 @@
   "log": [
     {
       "date": "2026-10-01",
+      "text": "New quote: Shenzhenshi Chuangxinhai Craft stadium cushion $2.23 related-product listing only, unconfirmed; Mia Deng greeting received. Alibaba browser unavailable."
+    },
+    {
+      "date": "2026-10-01",
       "text": "Metrics refresh: 21 Kettlon inbound emails in 7d (mostly Alibaba supplier messages), 2 replied, 0 awaiting. Amazon face/ID images cleared 30 Sep, rest of identity review pending. 0 waitlist/warranty forms. HTTPS cert still pending. Instagram counts not reachable today (HTTP 429, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -357,6 +361,29 @@
     {
       "date": "2026-09-30",
       "text": "kettlongear.com DNS live on GitHub Pages. Squarespace registrant email verified."
+    }
+  ],
+  "supplier_quotes": [
+    {
+      "supplier": "Shenzhenshi Chuangxinhai Craft Co., Ltd. / Mia Deng",
+      "product": "Oxford fabric foldable stadium seat cushion with carry handle",
+      "unit_price": 2.23,
+      "currency": null,
+      "quantity_tiers": null,
+      "moq": null,
+      "sample_cost": null,
+      "lead_time": null,
+      "payment_terms": null,
+      "date": "2026-10-01T11:01:12+00:00",
+      "channel": "email",
+      "thread_id": "1a0f7202ec1e2e96",
+      "email_id": "1a0f7202ec1e2e96",
+      "price_type": "related_product_listing_not_supplier_quote",
+      "status": "unconfirmed",
+      "freight": null,
+      "trade_assurance_link": null,
+      "replied": false,
+      "notes": "Notification shows $2.23 on a related product card. Currency code and price basis were not specified. Supplier message is only hello. This is not a negotiated quote or confirmed unit price. Local Alibaba browser unavailable; full conversation not read. Notification-only sender was not replied to."
     }
   ]
 }
