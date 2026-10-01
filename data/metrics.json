@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:28-04:00",
+  "updated_at": "2026-10-01T06:31-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -92,21 +92,26 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-01)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
-    "signup_history": []
+    "signup_history": [
+      {
+        "date": "2026-10-01",
+        "signups": 0
+      }
+    ]
   },
   "email": {
-    "kettlon_inbound_7d": 0,
-    "replied_7d": 0,
+    "kettlon_inbound_7d": 21,
+    "replied_7d": 2,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
     ]
   },
   "amazon": {
-    "account_status": "Identity review pending",
+    "account_status": "Identity review pending (face/ID images cleared 30 Sep; remaining info under review)",
     "listing_live": false,
     "units_sold": 0,
     "sessions": 0,
@@ -317,6 +322,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-01",
+      "text": "Metrics refresh: 21 Kettlon inbound emails in 7d (mostly Alibaba supplier messages), 2 replied, 0 awaiting. Amazon face/ID images cleared 30 Sep, rest of identity review pending. 0 waitlist/warranty forms. HTTPS cert still pending. Instagram counts not reachable today (HTTP 429, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
     {
       "date": "2026-09-30",
       "text": "CarPro-US declined reseller account 30 Sep 2026 (no Amazon resellers). Thank-you sent. Squarespace ICANN contact verification for kettlongear.com completed. Inbox handler scope widened; twice-daily inbox sweep added."
