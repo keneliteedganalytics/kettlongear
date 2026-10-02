@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T07:03-04:00",
+  "updated_at": "2026-10-02T09:16-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -121,7 +121,8 @@
     "sessions": 0,
     "revenue": 0,
     "bsr": null,
-    "reviews": 0
+    "reviews": 0,
+    "verification_status": "REJECTED business document 2 Oct 2:36 AM ET. Amazon requires government-issued business registration showing issuing authority, business name, registration number and date. Fix in progress: Delaware short-form Certificate of Good Standing ordered via Delaware Business Incorporators (134.10 USD, email delivery about 2 hours), checkout handed to Ken for card. Amazon deadline 10 days from 2 Oct (12 Oct)."
   },
   "supply_chain": {
     "stage": "Quotes in, ranking pending",
@@ -329,6 +330,10 @@
   "log": [
     {
       "date": "2026-10-02",
+      "text": "2 Oct 9:15 AM ET: Amazon rejected the business registration document (Delaware certificates PDF). Delaware Certificate of Good Standing ordered for re-upload; checkout handed to Ken. Alibaba swept: Mydays cushion quote USD 5.00/4.85/4.70, sample 155 USD accepted pending TA link; reference image sent to Power Tiger and TOPKO; Dleap closed. No Alibaba card yet."
+    },
+    {
+      "date": "2026-10-02",
       "text": "New quote: Changzhou Mydays / Luna Lu stadium seat cushion $5.00/4.85/4.70 FOB Shanghai at 500/1000/2000; sample $155 including USA shipping; currency unconfirmed; Comet offline"
     },
     {
@@ -372,6 +377,10 @@
       "text": "Metrics refresh: 21 Kettlon inbound emails in 7d (mostly Alibaba supplier messages), 2 replied, 0 awaiting. Amazon face/ID images cleared 30 Sep, rest of identity review pending. 0 waitlist/warranty forms. HTTPS cert still pending. Instagram counts not reachable today (HTTP 429, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
+      "date": "2026-10-01",
+      "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
+    },
+    {
       "date": "2026-09-30",
       "text": "CarPro-US declined reseller account 30 Sep 2026 (no Amazon resellers). Thank-you sent. Squarespace ICANN contact verification for kettlongear.com completed. Inbox handler scope widened; twice-daily inbox sweep added."
     },
@@ -402,10 +411,6 @@
     {
       "date": "2026-09-30",
       "text": "kettlongear.com DNS live on GitHub Pages. Squarespace registrant email verified."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
     }
   ],
   "supplier_quotes": [
@@ -665,15 +670,19 @@
     ]
   },
   "supplier_pipeline": {
-    "wrist_guard_suppliers_active": 5,
+    "wrist_guard_suppliers_active": 2,
     "cushion_suppliers_active": 4,
     "awaiting_manager_or_holiday": [
       "Yangzhou Bases (Sophia Ye)",
       "Shenzhen Beone (Sammia Zhu)",
-      "Changzhou Mydays (Luna Lu, holiday to ~8 Oct)",
-      "Shenzhenshi Chuangxinhai (Mia Deng)"
+      "Shenzhenshi Chuangxinhai (Mia Deng)",
+      "Henan Funihe (Ru)"
     ],
-    "note": "China National Day holiday 1 to 8 Oct 2026 will slow replies"
+    "note": "China National Day holiday 1 to 8 Oct 2026 will slow replies",
+    "dropped": [
+      "Shandong Dleap (joy pang): does not make wrist guards, closed 2 Oct"
+    ],
+    "reference_image_sent": "2 Oct: Kettlon wrist guard reference rendering sent to Power Tiger (HU ZENG) and TOPKO (Liam)"
   },
   "prep_center": {
     "name": "Smart Prep Center",
