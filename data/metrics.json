@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:58-04:00",
+  "updated_at": "2026-10-02T06:39-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -92,26 +92,30 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-01)",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-02)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
       {
         "date": "2026-10-01",
         "signups": 0
+      },
+      {
+        "date": "2026-10-02",
+        "signups": 0
       }
     ]
   },
   "email": {
-    "kettlon_inbound_7d": 21,
-    "replied_7d": 2,
+    "kettlon_inbound_7d": 39,
+    "replied_7d": 3,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
     ]
   },
   "amazon": {
-    "account_status": "Identity review pending (face/ID images cleared 30 Sep; remaining info under review)",
+    "account_status": "Verification not completed 2 Oct: business document rejected (not a government-issued license/registration); resubmit in Seller Central within 10 days (by ~12 Oct)",
     "listing_live": false,
     "units_sold": 0,
     "sessions": 0,
@@ -323,6 +327,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-02",
+      "text": "Metrics refresh 2 Oct: Amazon SIV could not complete (business document rejected; resubmit via Seller Central within 10 days). Inbound 7d 21->39, replied 2->3 (Smart Prep reminder answered 6:05 AM ET). 0 waitlist/warranty forms. HTTPS cert still *.github.io. Instagram not reachable (login wall/429); Comet offline so Meta ads and Seller Central skipped."
+    },
     {
       "date": "2026-10-01",
       "text": "Do-outs ledger created ops/DO_OUTS.md. Smart Prep Center reply sent 7:57 PM ET (registration details, 3 meeting slots, 400 USD deposit accepted). Comet offline since noon: 7 Alibaba messages unanswered. No Amazon approval email as of 7:55 PM ET."
