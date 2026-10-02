@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:39-04:00",
+  "updated_at": "2026-10-02T07:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -329,6 +329,10 @@
   "log": [
     {
       "date": "2026-10-02",
+      "text": "New quote: Changzhou Mydays / Luna Lu stadium seat cushion $5.00/4.85/4.70 FOB Shanghai at 500/1000/2000; sample $155 including USA shipping; currency unconfirmed; Comet offline"
+    },
+    {
+      "date": "2026-10-02",
       "text": "Metrics refresh 2 Oct: Amazon SIV could not complete (business document rejected; resubmit via Seller Central within 10 days). Inbound 7d 21->39, replied 2->3 (Smart Prep reminder answered 6:05 AM ET). 0 waitlist/warranty forms. HTTPS cert still *.github.io. Instagram not reachable (login wall/429); Comet offline so Meta ads and Seller Central skipped."
     },
     {
@@ -405,6 +409,62 @@
     }
   ],
   "supplier_quotes": [
+    {
+      "supplier": "Changzhou Mydays Outdoor Co., Ltd. / Luna Lu",
+      "product": "Stadium seat cushion",
+      "unit_price": 5.0,
+      "currency": null,
+      "price": "$5.00 at 500 pieces; $4.85 at 1000; $4.70 at 2000; currency unconfirmed",
+      "quantity_tiers": [
+        {
+          "quantity": 500,
+          "unit_price": 5.0
+        },
+        {
+          "quantity": 1000,
+          "unit_price": 4.85
+        },
+        {
+          "quantity": 2000,
+          "unit_price": 4.7
+        }
+      ],
+      "moq": null,
+      "sample_cost": 155,
+      "sample_quantity": null,
+      "sample_colors": null,
+      "sample_customization_cost": null,
+      "sample_shipping_included": true,
+      "delivered_sample_cost": 155,
+      "freight": null,
+      "freight_notes": "Supplier says sample cost includes shipping to USA; express service, Sewickley address coverage and duties unconfirmed.",
+      "shipping_basis": "FOB Shanghai for production",
+      "lead_time": "Sample: 7 days after return to work; bulk production: 30 days",
+      "sample_preparation_days": 7,
+      "holiday_return_date": null,
+      "sample_transit_time": null,
+      "production_lead_time_days": 30,
+      "payment_terms": null,
+      "date": "2026-10-02T10:56:41+00:00",
+      "channel": "email",
+      "thread_id": "1a0fc42664c92f84",
+      "email_id": "1a0fc42664c92f84",
+      "trade_assurance_link": null,
+      "replied": false,
+      "reply_status": "No email reply found; Alibaba reply status unverified because Comet is offline. Notification-only sender must not be replied to.",
+      "packing": {
+        "carton_dimensions_cm": [
+          52,
+          45,
+          46
+        ],
+        "pieces_per_carton": 50,
+        "gross_weight_kg": 16,
+        "status": "Supplier estimates"
+      },
+      "status": "Provisional negotiated quote received via Alibaba email notification; full Alibaba conversation unavailable; no sample order authorized",
+      "notes": "Supplier asks whether to proceed with a sample order. Confirm currency, MOQ, specifications, sample quantity/colors/customization, shipping details, return date, transit, compliance, Amazon prep and 30/70 Trade Assurance terms before decision. Related-product card price $2.15 excluded."
+    },
     {
       "supplier": "Shenzhen Beone Handbags Manufacturing Co., Ltd. / Sammia Zhu",
       "product": "Stadium seat cushion sample, red only",
@@ -499,7 +559,7 @@
     }
   ],
   "cushion_supplier_comparison": {
-    "checked_at": "2026-10-01T11:17:00-04:00",
+    "checked_at": "2026-10-02T11:05:00+00:00",
     "status": "Provisional; no complete comparable quote or verified delivered sample cost",
     "decision": "Do not select a winner or authorize purchases until specification, delivered sample cost, lead time and commercial terms are verified.",
     "suppliers": [
@@ -551,15 +611,48 @@
       {
         "supplier": "Changzhou Mydays / Luna Lu",
         "product": "Stadium seat cushion",
-        "verified_unit_price": null,
-        "sample_cost": null,
+        "verified_unit_price": 5.0,
+        "currency": null,
+        "sample_cost": 155,
+        "sample_quantity": null,
+        "sample_colors": null,
+        "customization_cost": null,
+        "sample_shipping_included": true,
         "freight": null,
-        "delivered_sample_cost": null,
+        "freight_notes": "Shipping to USA included in supplier's $155 sample total; express method, transit time, Sewickley address coverage and duties unconfirmed.",
+        "delivered_sample_cost": 155,
+        "delivered_sample_cost_status": "Supplier-stated shipped sample total; currency and sample scope unconfirmed",
         "trade_assurance_link": null,
-        "production_prices": null,
-        "lead_time": null,
-        "specification_fit": "Unconfirmed",
-        "next_action": "Await supplier response after its stated National Day holiday; monitor without repeated requests."
+        "production_prices": {
+          "500": 5.0,
+          "1000": 4.85,
+          "2000": 4.7
+        },
+        "shipping_basis": "FOB Shanghai for production",
+        "moq": null,
+        "lead_time": "Sample preparation 7 days after return to work; bulk production 30 days",
+        "sample_preparation_days": 7,
+        "holiday_return_date": null,
+        "sample_transit_time": null,
+        "production_lead_time_days": 30,
+        "payment_terms": null,
+        "compliance": null,
+        "amazon_prep": null,
+        "packing": {
+          "carton_dimensions_cm": [
+            52,
+            45,
+            46
+          ],
+          "pieces_per_carton": 50,
+          "gross_weight_kg": 16,
+          "status": "Supplier estimates"
+        },
+        "specification_fit": "Supplier says based on requirements, but finished dimensions, foam construction, cover, base and strap not explicitly confirmed in notification",
+        "source_thread_id": "1a0fc42664c92f84",
+        "source_channel": "email",
+        "quoted_at": "2026-10-02T10:56:41+00:00",
+        "next_action": "Comet offline; read the Alibaba thread and check for existing reply before sending missing-information request. Do not approve the sample. Confirm currency, sample quantity/colors/customization, exact construction, shipping, return date, transit, compliance, Amazon prep and 30/70 Trade Assurance terms. No comparable winner yet."
       }
     ],
     "comparison_gates": [
