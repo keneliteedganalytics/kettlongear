@@ -1,10 +1,10 @@
 # Kettlon Gear Do-Outs
 
-Updated 2 October 2026, 9:20 AM ET. Open items first. Owner "Agent" means it runs without Ken.
+Updated 2 October 2026, 9:25 AM ET. Open items first. Owner "Agent" means it runs without Ken.
 
 | # | Item | Owner | Blocker | Next action | Due |
 |---|------|-------|---------|-------------|-----|
-| 1 | Amazon seller verification: business document REJECTED 2 Oct 2:36 AM ET | Agent / Ken | Amazon wants a government-issued registration certificate (authority name, entity name, file number, issue date) | Delaware short-form Certificate of Good Standing ordered from Delaware Business Incorporators, 134.10 USD, email in about 2 hours. Ken pays card on the handed-over checkout tab. Agent uploads PDF under Registration Extract and resubmits, then W-9 and gating check | Amazon deadline 12 Oct; aim 2 Oct |
+| 1 | Amazon seller verification: business document REJECTED 2 Oct 2:36 AM ET | Agent / Ken | Amazon wants a government-issued registration certificate (authority name, entity name, file number, issue date) | Delaware short-form Certificate of Good Standing ordered from Delaware Business Incorporators, 134.10 USD, email in about 2 hours. Paid 9:20 AM ET (order 2026-8992). Agent uploads PDF under Registration Extract and resubmits, then W-9 and gating check | Amazon deadline 12 Oct; aim 2 Oct |
 | 2 | Alibaba payment card | Ken | Card entry only Ken can do | Add card at Cards and accounts (Add card form pre-filled 1 Oct) | 2 Oct |
 | 3 | Smart Prep Center onboarding | Agent / Ken | Their meeting link still 404 (checked 2 Oct 9:15 AM) | They sent a reminder 2 Oct 6:05 AM; inbox handler replied asking them to confirm Fri 2 PM, Mon 10 AM or Tue 6 Oct ET and send the link. Ken pays 400 USD activation link when it arrives (10 percent bonus credit offered) | Meeting 2, 5 or 6 Oct |
 | 4 | Alibaba supplier replies | Agent | None | Swept 2 Oct 9:10 AM: Mydays cushion quote accepted for samples (155 USD) pending Trade Assurance link; reference image sent to Power Tiger and TOPKO with re-quote request; Dleap closed | Hourly |
