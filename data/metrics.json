@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:16-04:00",
+  "updated_at": "2026-10-02T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -328,6 +328,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-02",
+      "text": "2 Oct 2026 supplier check: no replies from Modern Toyota, Wahl, Reptile Supply Co., American Safety; no follow-ups due until 5 Oct"
+    },
     {
       "date": "2026-10-02",
       "text": "2 Oct 9:15 AM ET: Amazon rejected the business registration document (Delaware certificates PDF). Delaware Certificate of Good Standing ordered for re-upload; checkout handed to Ken. Alibaba swept: Mydays cushion quote USD 5.00/4.85/4.70, sample 155 USD accepted pending TA link; reference image sent to Power Tiger and TOPKO; Dleap closed. No Alibaba card yet."
