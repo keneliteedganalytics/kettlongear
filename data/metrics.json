@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:23-04:00",
+  "updated_at": "2026-10-02T12:06-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -328,6 +328,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-02",
+      "text": "2 Oct 12:02 PM ET: Delaware Certificate of Good Standing received (issued 2 Oct 2026, file 10282896, authentication 205305669) and verified. Upload to Seller Central blocked: Comet offline, cloud browser blocked by org policy. Retry scheduled 1:30 PM ET."
+    },
     {
       "date": "2026-10-02",
       "text": "2 Oct 9:20 AM ET: Delaware Certificate of Good Standing paid, Delaware Business Incorporators order 2026-8992, 134.10 USD. PDF expected by email within about 2 hours; upload automation fires 12:00 PM ET."
