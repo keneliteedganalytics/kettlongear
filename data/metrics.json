@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T06:38-04:00",
+  "updated_at": "2026-10-03T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -332,6 +332,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-03",
+      "text": "Supplier check 3 Oct 2026: no new supplier replies. Follow-up 1 due 5 Oct (Reptile Supply Co. by email; Modern Toyota, Wahl, American Safety manual)."
+    },
     {
       "date": "2026-10-03",
       "text": "Metrics refresh 3 Oct: inbound 7d 39->51, replied 3->2 (Smart Prep sent new meeting reminder 10:05 UTC, unanswered <24h). 0 waitlist/warranty forms. No Amazon verification-passed email. HTTPS cert still *.github.io. Instagram counts not reachable today; Comet offline so Meta ads and Seller Central skipped."
