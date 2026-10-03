@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:03-04:00",
+  "updated_at": "2026-10-02T21:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -329,6 +329,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-03",
+      "text": "New quote: Changzhou Mydays / Luna Lu stadium cushion three logo samples $155 including shipping; currency unconfirmed"
+    },
+    {
       "date": "2026-10-02",
       "text": "Supplier update: Chuangxinhai / Mia Deng is confirming maximum foldable thickness and pricing with senior manager. Notification received 2026-10-02T19:05:11Z; no new quote. Comet offline; Alibaba reply status unverified."
     },
@@ -434,6 +438,36 @@
     }
   ],
   "supplier_quotes": [
+    {
+      "supplier": "Changzhou Mydays Outdoor Co., Ltd. / Luna Lu",
+      "product": "Stadium seat cushion, three customized samples",
+      "unit_price": null,
+      "currency": null,
+      "price": "$155 delivered total for three samples including logo; currency unconfirmed",
+      "quantity_tiers": null,
+      "moq": null,
+      "sample_cost": 155,
+      "sample_quantity": 3,
+      "sample_colors": null,
+      "sample_customization_cost": null,
+      "sample_customization_included": true,
+      "sample_shipping_included": true,
+      "delivered_sample_cost": 155,
+      "freight": null,
+      "freight_notes": "Supplier confirms shipping to our address included; express service, transit time and duties remain unconfirmed.",
+      "shipping_basis": null,
+      "lead_time": null,
+      "payment_terms": null,
+      "date": "2026-10-03T01:01:52+00:00",
+      "channel": "email",
+      "thread_id": "1a0ff483300c9a3a",
+      "email_id": "1a0ff483300c9a3a",
+      "trade_assurance_link": null,
+      "replied": false,
+      "reply_status": "Notification-only sender not replied to. Full Alibaba conversation and existing reply status unverified because Comet is offline.",
+      "status": "Sample scope and shipping clarification; supplier will draft Alibaba order. No order or payment authorized.",
+      "notes": "Luna: Yes, $155 covers all three samples including your logo and shipping to your address. I will draft the order for you on Alibaba. Currency, colors, construction, timing and Trade Assurance terms remain unconfirmed. Related-product listing $2.15 excluded."
+    },
     {
       "supplier": "Changzhou Mydays Outdoor Co., Ltd. / Luna Lu",
       "product": "Stadium seat cushion",
@@ -584,7 +618,7 @@
     }
   ],
   "cushion_supplier_comparison": {
-    "checked_at": "2026-10-02T11:05:00+00:00",
+    "checked_at": "2026-10-03T01:01:52+00:00",
     "status": "Provisional; no complete comparable quote or verified delivered sample cost",
     "decision": "Do not select a winner or authorize purchases until specification, delivered sample cost, lead time and commercial terms are verified.",
     "suppliers": [
@@ -644,14 +678,15 @@
         "verified_unit_price": 5.0,
         "currency": null,
         "sample_cost": 155,
-        "sample_quantity": null,
+        "sample_quantity": 3,
         "sample_colors": null,
         "customization_cost": null,
+        "customization_included": true,
         "sample_shipping_included": true,
         "freight": null,
-        "freight_notes": "Shipping to USA included in supplier's $155 sample total; express method, transit time, Sewickley address coverage and duties unconfirmed.",
+        "freight_notes": "Supplier confirms $155 covers three samples, logo and shipping to our address; express method, transit time and duties unconfirmed.",
         "delivered_sample_cost": 155,
-        "delivered_sample_cost_status": "Supplier-stated shipped sample total; currency and sample scope unconfirmed",
+        "delivered_sample_cost_status": "Supplier confirms three samples with logo and shipping to our address; currency, colors and construction unconfirmed",
         "trade_assurance_link": null,
         "production_prices": {
           "500": 5.0,
@@ -679,10 +714,13 @@
           "status": "Supplier estimates"
         },
         "specification_fit": "Supplier says based on requirements, but finished dimensions, foam construction, cover, base and strap not explicitly confirmed in notification",
-        "source_thread_id": "1a0fc42664c92f84",
+        "source_thread_id": "1a0ff483300c9a3a",
         "source_channel": "email",
         "quoted_at": "2026-10-02T10:56:41+00:00",
-        "next_action": "Comet offline; read the Alibaba thread and check for existing reply before sending missing-information request. Do not approve the sample. Confirm currency, sample quantity/colors/customization, exact construction, shipping, return date, transit, compliance, Amazon prep and 30/70 Trade Assurance terms. No comparable winner yet."
+        "latest_supplier_message": "Yes, $155 covers all three samples including your logo and shipping to your address. I will draft the order for you on Alibaba.",
+        "latest_supplier_message_at": "2026-10-03T01:01:52+00:00",
+        "latest_message_status": "Notification-only email; Comet offline. Alibaba order link not yet observed, and reply status unverified.",
+        "next_action": "Read Alibaba thread and check existing replies when Comet is available. Await review-only order link; do not approve or pay. Confirm currency, sample colors, exact construction, express method, return date, transit, compliance, Amazon prep and 30/70 Trade Assurance terms. No comparable winner yet."
       }
     ],
     "comparison_gates": [
