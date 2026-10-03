@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T21:03-04:00",
+  "updated_at": "2026-10-03T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -92,7 +92,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-02)",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-03)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -103,12 +103,16 @@
       {
         "date": "2026-10-02",
         "signups": 0
+      },
+      {
+        "date": "2026-10-03",
+        "signups": 0
       }
     ]
   },
   "email": {
-    "kettlon_inbound_7d": 39,
-    "replied_7d": 3,
+    "kettlon_inbound_7d": 51,
+    "replied_7d": 2,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -328,6 +332,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-03",
+      "text": "Metrics refresh 3 Oct: inbound 7d 39->51, replied 3->2 (Smart Prep sent new meeting reminder 10:05 UTC, unanswered <24h). 0 waitlist/warranty forms. No Amazon verification-passed email. HTTPS cert still *.github.io. Instagram counts not reachable today; Comet offline so Meta ads and Seller Central skipped."
+    },
     {
       "date": "2026-10-03",
       "text": "New quote: Changzhou Mydays / Luna Lu stadium cushion three logo samples $155 including shipping; currency unconfirmed"
