@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T15:13-04:00",
-  "updated_by": "Kettlon pivot 2026-10-04",
+  "updated_at": "2026-10-04T15:21-04:00",
+  "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
     "entity": "Elite-Edge-Analytics, LLC",
@@ -61,15 +61,16 @@
     "linked_to_instagram": true
   },
   "ads": {
-    "status": "paused by decision 2026-10-04; Ken to pause in Ads Manager",
+    "status": "Off (paused 2026-10-04 3:17 PM ET)",
     "campaign": "Kettlon Prelaunch Traffic",
     "daily_budget": 30,
-    "spend_to_date": 0,
+    "spend_to_date": 103.46,
     "impressions": 0,
     "link_clicks": 0,
     "cpc": null,
-    "landing_page_views": 0,
-    "history": []
+    "landing_page_views": 101,
+    "history": [],
+    "cost_per_landing_page_view": 1.02
   },
   "website": {
     "domain": "kettlongear.com",
@@ -119,7 +120,18 @@
     "stage": "Closed 2026-10-04 (wholesale-only pivot)",
     "supplier_quotes": 0,
     "milestones": [],
-    "note": "Wrist-guard and stadium-cushion private-label lanes closed. Alibaba RFQs left to expire 2026-10-15. Mydays 155 USD sample order cancelled before payment; Beone 100 USD sample declined. Stand-down messages queued for the first Comet-available run of the hourly check."
+    "note": "Wrist-guard and stadium-cushion private-label lanes closed 2026-10-04. Stand-down messages sent to all seven active Alibaba conversations on 2026-10-04 at about 3:20 PM ET; no payment made, no order placed. Mydays 155 USD sample order not paid and cancelled by message. Remaining RFQs expire 2026-10-15.",
+    "stand_down_sent": true,
+    "stand_down_date": "2026-10-04",
+    "stand_down_conversations": [
+      "Changzhou Mydays Outdoor (Luna Lu)",
+      "Shenzhen Beone Handbags (Sammia Zhu)",
+      "Rizhao Power Tiger Fitness (HU ZENG, replied OK)",
+      "Topko Product Group (Liam)",
+      "Shenzhenshi Chuangxinhai Craft (Mia Deng)",
+      "Henan Funihe (Ru)",
+      "Yangzhou Bases Sports Goods (Sophia Ye)"
+    ]
   },
   "wholesale_lane": {
     "status": "Distributor outreach, wave 1",
@@ -331,6 +343,10 @@
   "log": [
     {
       "date": "2026-10-04",
+      "text": "Alibaba stand-down sent to all 7 supplier conversations; Meta campaign Kettlon Prelaunch Traffic turned off (103.46 USD spent, 101 landing page views)"
+    },
+    {
+      "date": "2026-10-04",
       "text": "Wholesale-only pivot. Private-label lanes closed, budget folded to 40,000 wholesale, screen v2 and 36-name distributor target list published, three distributor inquiries sent."
     },
     {
@@ -444,10 +460,6 @@
     {
       "date": "2026-09-30",
       "text": "Illinois REG-1 sales and use tax registration submitted by Ken via MyTax Illinois (Chicago/Cook changing location). Awaiting account ID for CRT-61 resale certificates."
-    },
-    {
-      "date": "2026-09-30",
-      "text": "Facebook Page Kettlon created and linked to @kettlongear. Meta ad built, waiting on card."
     }
   ],
   "supplier_quotes": [

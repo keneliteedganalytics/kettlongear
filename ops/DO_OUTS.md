@@ -15,7 +15,10 @@ Updated 4 October 2026, 3:30 PM ET. Kettlon Gear is a wholesale-only Amazon stor
 | 9 | Keepa subscription (about 20 USD/month) | Agent | None, within delegated authority | Subscribe once the first price list arrives, so Stage 2 of ops/WHOLESALE_SCREEN.md can run | On first price list |
 | 10 | kettlongear.com HTTPS | GitHub | Certificate not yet issued (3 Oct: https_certificate null, DNS correct) | Re-run https_enforced when cert exists | Daily check |
 
-## Closed 4 October 2026 (pivot to wholesale-only)
+## Closed 4 October 2026
+
+- Meta campaign Kettlon Prelaunch Traffic turned off in Ads Manager at 3:17 PM ET (103.46 USD spent, 101 landing page views at 1.02 USD).
+- Alibaba stand-down message sent in all seven active supplier conversations (Mydays, Beone, Power Tiger, TOPKO, Chuangxinhai, Funihe, Bases). No payment, no order. Power Tiger acknowledged. (pivot to wholesale-only)
 
 - Wrist-guard private-label lane: closed. Alibaba RFQ left to expire 15 Oct. No reference build, no re-quote.
 - Stadium-cushion private-label lane: closed. Mydays 155 USD three-sample order cancelled before payment. Beone 100 USD single sample declined. Chuangxinhai thickness check no longer needed.
