@@ -1,19 +1,28 @@
 # Kettlon Gear Do-Outs
 
-Updated 3 October 2026, 10:15 AM ET. Open items first. Owner "Agent" means it runs without Ken.
+Updated 4 October 2026, 3:30 PM ET. Kettlon Gear is a wholesale-only Amazon store as of today. Open items first. Owner "Agent" means it runs without Ken.
 
 | # | Item | Owner | Blocker | Next action | Due |
 |---|------|-------|---------|-------------|-----|
-| 1 | Amazon seller verification: business document rejected 2 Oct 2:36 AM ET; RESUBMITTED 2 Oct 3:05 PM ET | Amazon | Amazon review | 3 Oct 10:10 AM: Seller Central onboarding shows "Your account details are being reviewed" (82 percent). No Amazon email since resubmission. Rob Fedoris owner-details request sits in Gmail Drafts for Ken to send. Still open (Ken): Suite 5000 mail hold for postcard code, MyTax logon for Illinois Business Authorization certificate. After approval: W-9 tax interview and gating check | Amazon deadline 12 Oct |
-| 2 | Alibaba payment card | Ken | Card entry only Ken can do | 3 Oct: Cards and accounts still shows no saved card. Now the only blocker on the Mydays 155 USD sample order | Overdue (2 Oct) |
-| 3 | Smart Prep Center onboarding | Agent / Ken | Their meeting-request link still 404 (rechecked 3 Oct) | 3 Oct 6:05 AM automated reminder answered 10:10 AM ET: link is 404, confirm Mon 5 Oct 10 AM or Tue 6 Oct, or send activation/payment link. Ken pays 400 USD activation (440 credited per their 10 percent bonus) when link arrives | 5 or 6 Oct |
-| 4 | Alibaba supplier replies | Agent | China holiday 1 to 7 Oct | Swept 3 Oct 10:09 AM: Mydays (Luna) confirmed 155 USD covers all three logo samples plus US shipping and will draft the order; replied asking for a 155 USD Trade Assurance sample order only, not the 1,000-piece USD 4,850 draft the chat tool shows; compliance documents after holiday. TOPKO (Liam): "will back to you soon". Power Tiger checking reference build; Chuangxinhai checking max thickness with manager; Beone on holiday. No new replies from Funihe or Bases | Hourly |
-| 5 | Trade Assurance sample links (Mydays 155 USD, Power Tiger, TOPKO, cushion suppliers) | Suppliers | China holiday 1 to 8 Oct; no Alibaba card saved | Hourly check approves at or under 1,000 USD once card is saved | 9 Oct |
-| 6 | Wholesale distributor replies (Modern Toyota, Wahl, Reptile Supply, American Safety) | Distributors | None yet | Follow-up 1 fires 5 Oct 9:15 AM ET | 5 Oct |
-| 7 | CarPro Eraser replacement SKU | Agent | Remaining 22 candidates fail the screen | 3 Oct: reviewed all remaining rows. Every one is brand-direct on Amazon, restricted (pesticide, animal health) or excludes Amazon resellers (Berkland states this on its wholesale page; PERLLI runs its own Amazon brand store). No replacement chosen from this scan. Next: re-run Helium 10 Black Box with corrected categories (Home and Kitchen, Office, Sports, Patio, Baby) and US third-party distributor sellers | 6 Oct |
-| 8 | MyTax Illinois activation | Agent | One-business-day rule | Automation retries 2 Oct 9:00 AM ET | 2 Oct |
-| 9 | kettlongear.com HTTPS | GitHub | Certificate not yet issued (3 Oct: https_certificate null, DNS A records correct) | Re-run https_enforced when cert exists | Daily check |
+| 1 | Amazon seller verification: resubmitted 2 Oct 3:05 PM ET with Delaware Certificate of Good Standing | Amazon | Amazon review | Portal showed "Your account details are being reviewed" on 3 Oct. Rob Fedoris owner-details request sits in Gmail Drafts for Ken to send. Still open (Ken): Suite 5000 mail hold for postcard code, MyTax logon for Illinois certificate. After approval: W-9 tax interview and category gating check | Amazon deadline 12 Oct |
+| 2 | Smart Prep Center onboarding | Agent / Ken | Their meeting-request link still 404 (rechecked 4 Oct) | Replied 4 Oct 1:35 PM asking a manager to confirm Mon 5 Oct 10 AM or Tue 6 Oct, or send the activation link. Agent calls 862-256-7073 Monday if no reply. Ken pays 400 USD activation (440 credited) when the link arrives | 5 or 6 Oct |
+| 3 | Distributor applications, wave 1 (21 names in ops/DISTRIBUTOR_TARGETS.md) | Agent, Ken signs PDFs | Resale certificate CRT-61 not yet issued; applications go in with "in process" | Inquiry emails sent 4 Oct to Animal Supply Company, ACD Distribution and Big Rock Sports. Phillips, Meyer, Great Lakes Wholesale and Turn 14 drafts await Ken's go-ahead, then the web-form and PDF applications run 5 to 9 Oct. Each one discloses Amazon resale | 9 Oct |
+| 4 | MyTax Illinois activation and CRT-61 | Ken | Logon activation letter | Activate MyTax logon, download CRT-61, save to the repo ops folder (redacted) so applications can attach it | 8 Oct |
+| 5 | Original four distributor requests (Modern Toyota, Wahl, Reptile Supply, American Safety) | Distributors | No replies as of 4 Oct | Follow-up 1 fires 5 Oct 9:15 AM ET from the supplier follow-up automation | 5 Oct |
+| 6 | Alibaba stand-down messages (Mydays, Beone, Power Tiger, TOPKO, Chuangxinhai, Funihe, Bases) | Agent | Needs Comet open and logged in to Alibaba | Hourly automation sends the stand-down text on its first run with Comet available, then logs it. Mydays 155 USD sample order is cancelled, not paid; no card to be saved | First Comet run |
+| 7 | Meta campaign "Kettlon Prelaunch Traffic" 30 USD/day | Ken | Ads Manager login is Ken's | Pause the campaign in Ads Manager. No listings exist to send traffic to | 5 Oct |
+| 8 | kettlongear.com copy still describes wrist guards and a 2027 launch | Ken decision | Store direction | Decide: hold the page as a brand placeholder with the signup removed, or replace with a one-page "Kettlon Gear, an Amazon storefront" placeholder. Agent builds whichever Ken picks | 9 Oct |
+| 9 | Keepa subscription (about 20 USD/month) | Agent | None, within delegated authority | Subscribe once the first price list arrives, so Stage 2 of ops/WHOLESALE_SCREEN.md can run | On first price list |
+| 10 | kettlongear.com HTTPS | GitHub | Certificate not yet issued (3 Oct: https_certificate null, DNS correct) | Re-run https_enforced when cert exists | Daily check |
+
+## Closed 4 October 2026 (pivot to wholesale-only)
+
+- Wrist-guard private-label lane: closed. Alibaba RFQ left to expire 15 Oct. No reference build, no re-quote.
+- Stadium-cushion private-label lane: closed. Mydays 155 USD three-sample order cancelled before payment. Beone 100 USD single sample declined. Chuangxinhai thickness check no longer needed.
+- Alibaba payment card: not needed, do not add.
+- Instagram daily story automation: paused. @kettlongear account kept.
+- KETTLON trademark (serial 50137392): left pending, no action, no cost.
 
 ## Ignore list (1 Oct)
-- tsdrlawoffice.com "mandatory verification appointment" and ustmr.com "case details": trademark solicitation scams referencing serial 50137392. No USPTO examining attorney schedules phone appointments by email. No reply.
-- certuxconnect.com (Ogi Rakov) video production pitch, follow-up 3 Oct "who's shooting it?". No reply.
+- tsdrlawoffice.com "mandatory verification appointment" and ustmr.com "case details": trademark solicitation scams referencing serial 50137392. No reply.
+- certuxconnect.com (Ogi Rakov) video production pitch. No reply.

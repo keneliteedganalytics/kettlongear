@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-10-04T09:21-04:00",
-  "updated_by": "Kettlon metrics automation",
+  "updated_at": "2026-10-04T15:13-04:00",
+  "updated_by": "Kettlon pivot 2026-10-04",
   "business": {
     "name": "Kettlon Gear",
     "entity": "Elite-Edge-Analytics, LLC",
     "amazon_store": "Kettlon Gear",
-    "site": "https://kettlongear.com"
+    "site": "https://kettlongear.com",
+    "model": "Wholesale-only Amazon resale (since 2026-10-04). Private-label development closed."
   },
   "budget": {
     "kettlon": {
-      "approved": 20000,
+      "approved": 0,
       "committed": 0,
       "spent": 0,
       "items": [
@@ -32,34 +33,16 @@
           "label": "Helium 10 subscription (monthly)",
           "amount": 0,
           "status": "unverified"
-        },
-        {
-          "label": "Samples (3 suppliers, est.)",
-          "amount": 300,
-          "status": "planned"
-        },
-        {
-          "label": "Production deposit 30% (1,200 pairs at $3.00-3.75 FOB, est.)",
-          "amount": 1300,
-          "status": "planned"
-        },
-        {
-          "label": "Air freight first run (est.)",
-          "amount": 2200,
-          "status": "planned"
-        },
-        {
-          "label": "Meta ads, $30/day prelaunch",
-          "amount": 900,
-          "status": "monthly run-rate"
         }
-      ]
+      ],
+      "note": "Private-label budget folded into the wholesale lane on 2026-10-04. Paid items (trademark 350, domain 20) stay as sunk cost. Planned sample, deposit, freight and Meta ad lines cancelled."
     },
     "wholesale": {
-      "approved": 20000,
+      "approved": 40000,
       "committed": 0,
       "spent": 0,
-      "items": []
+      "items": [],
+      "note": "20,000 original wholesale allocation plus 20,000 folded in from the closed private-label lane on 2026-10-04. Delegated authority per ops/AUTHORITY.md: single commitments at or under 1,000 USD."
     }
   },
   "instagram": {
@@ -78,7 +61,7 @@
     "linked_to_instagram": true
   },
   "ads": {
-    "status": "built, awaiting payment method",
+    "status": "paused by decision 2026-10-04; Ken to pause in Ads Manager",
     "campaign": "Kettlon Prelaunch Traffic",
     "daily_budget": 30,
     "spend_to_date": 0,
@@ -133,68 +116,38 @@
     "verification_status": "REJECTED business document 2 Oct 2:36 AM ET. Amazon requires government-issued business registration showing issuing authority, business name, registration number and date. Fix in progress: Delaware short-form Certificate of Good Standing ordered via Delaware Business Incorporators (134.10 USD, email delivery about 2 hours), checkout handed to Ken for card. Amazon deadline 10 days from 2 Oct (12 Oct)."
   },
   "supply_chain": {
-    "stage": "Quotes in, ranking pending",
+    "stage": "Closed 2026-10-04 (wholesale-only pivot)",
     "supplier_quotes": 0,
-    "milestones": [
-      {
-        "label": "Samples ordered",
-        "target": "2026-10-15",
-        "done": false
-      },
-      {
-        "label": "Samples in hand",
-        "target": "2026-10-20",
-        "done": false
-      },
-      {
-        "label": "Production deposit",
-        "target": "2026-10-22",
-        "done": false
-      },
-      {
-        "label": "Production complete",
-        "target": "2026-11-25",
-        "done": false
-      },
-      {
-        "label": "Air freight lands at FBA",
-        "target": "2026-12-15",
-        "done": false
-      },
-      {
-        "label": "Listing live / first sale",
-        "target": "2026-12-18",
-        "done": false
-      }
-    ]
+    "milestones": [],
+    "note": "Wrist-guard and stadium-cushion private-label lanes closed. Alibaba RFQs left to expire 2026-10-15. Mydays 155 USD sample order cancelled before payment; Beone 100 USD sample declined. Stand-down messages queued for the first Comet-available run of the hourly check."
   },
   "wholesale_lane": {
-    "status": "Registering",
+    "status": "Distributor outreach, wave 1",
     "gates": [
       {
         "label": "Amazon identity verification cleared",
         "done": false
       },
       {
-        "label": "Illinois sales tax registration (REG-1) submitted 30 Sep 2026; CRT-61 issuable once account ID arrives",
+        "label": "Illinois sales tax registration (REG-1) processed; account 4657-7742; CRT-61 pending MyTax activation",
         "done": true,
         "partial": true
       },
       {
-        "label": "Prep center account requested 1 Oct 2026 (Smart Prep Center, Delaware); awaiting onboarding",
+        "label": "Prep center account (Smart Prep Center, Delaware); meeting link 404, activation link requested",
         "done": false,
         "partial": true
       },
       {
-        "label": "Distributor accounts approved",
+        "label": "Distributor accounts approved (target 5 of 36 in ops/DISTRIBUTOR_TARGETS.md)",
         "done": false
       },
       {
-        "label": "First 10 SKUs pass ROI screen (5 tier-1 candidates identified, quotes pending)",
+        "label": "First price list screened under v2",
         "done": false
       },
       {
-        "label": "First purchase order placed",
+        "label": "First test lot ordered",
         "done": false
       }
     ],
@@ -295,6 +248,46 @@
       "replies": 1,
       "followup_1_due": "2026-10-05",
       "followup_2_due": "2026-10-12"
+    },
+    "screen_version": "v2 (ops/WHOLESALE_SCREEN.md, 2026-10-04): distributor-first, price list in, Keepa out",
+    "distributors": {
+      "targets": 36,
+      "excluded": 4,
+      "inquiries_sent": [
+        {
+          "name": "Animal Supply Company",
+          "to": "accounts@animalsupply.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
+        },
+        {
+          "name": "ACD Distribution",
+          "to": "applications@acdd.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
+        },
+        {
+          "name": "Big Rock Sports",
+          "to": "Apply@bigrocksports.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
+        }
+      ],
+      "awaiting_ken_go_ahead": [
+        "Phillips Pet Food and Supplies",
+        "Meyer Distributing",
+        "Great Lakes Wholesale",
+        "Turn 14 Distribution"
+      ],
+      "original_requests": [
+        "Modern Toyota Wholesale Parts",
+        "Wahl Professional Animal",
+        "Reptile Supply Co.",
+        "American Safety Distributors"
+      ],
+      "declined": [
+        "CarPro-US (2026-09-30)"
+      ]
     }
   },
   "gates": [
@@ -319,23 +312,27 @@
       "done": true
     },
     {
-      "label": "Meta ad published (needs card)",
-      "done": false
-    },
-    {
       "label": "Amazon identity verification",
       "done": false
     },
     {
-      "label": "Instagram profile link to kettlongear.com (phone)",
+      "label": "Prep center onboarded (Smart Prep Center)",
       "done": false
     },
     {
-      "label": "Supplier selected",
+      "label": "First distributor account approved",
+      "done": false
+    },
+    {
+      "label": "First test lot ordered (at or under 1,000 USD)",
       "done": false
     }
   ],
   "log": [
+    {
+      "date": "2026-10-04",
+      "text": "Wholesale-only pivot. Private-label lanes closed, budget folded to 40,000 wholesale, screen v2 and 36-name distributor target list published, three distributor inquiries sent."
+    },
     {
       "date": "2026-10-04",
       "text": "4 Oct 2026 supplier check: no replies from Modern Toyota, Wahl, Reptile Supply Co. or American Safety. No follow-ups due until 5 Oct."
@@ -451,10 +448,6 @@
     {
       "date": "2026-09-30",
       "text": "Facebook Page Kettlon created and linked to @kettlongear. Meta ad built, waiting on card."
-    },
-    {
-      "date": "2026-09-30",
-      "text": "First Instagram story posted. Daily story automation live from Oct 1, 7:30 AM ET."
     }
   ],
   "supplier_quotes": [

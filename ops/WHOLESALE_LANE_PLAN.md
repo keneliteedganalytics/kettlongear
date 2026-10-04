@@ -1,6 +1,6 @@
-# Fast-Revenue Wholesale Lane: Plan and Guardrails
+# Wholesale Lane: Plan and Guardrails
 
-Prepared for Kenneth Young, Elite-Edge-Analytics, LLC. 30 September 2026.
+Prepared for Kenneth Young, Elite-Edge-Analytics, LLC. 30 September 2026. Since 4 October 2026 this is the only lane: Kettlon Gear is a wholesale-only Amazon store, the private-label budget is folded in (40,000 USD total), and sourcing runs distributor-first under ops/WHOLESALE_SCREEN.md with targets in ops/DISTRIBUTOR_TARGETS.md.
 
 ## Bottom line
 
@@ -38,15 +38,15 @@ Realistic expectation for a disciplined wholesale line: 15 to 30 percent return 
 
 Everyday, ungated categories that fit this screen: home and kitchen consumables (trash bags, storage, cleaning tools), office and school supplies, pet supplies, tools and hardware, sporting goods accessories, baby products that are not feeding related, and automotive accessories. Grocery, supplements and topicals come later after ungating.
 
-## Budget: $20,000 (assumed separate from the $20,000 Kettlon budget)
+## Budget: $40,000 (original $20,000 plus the $20,000 private-label allocation, folded in 4 October 2026)
 
 | Bucket | Amount | Notes |
 | --- | --- | --- |
-| Inventory, first two buys | 12,000 | Buy 1 of $6,000 across 10 to 15 SKUs, Buy 2 of $6,000 after the first 21 days of sales data. |
+| Inventory, test lots and first two buys | 28,000 | Test lots of up to $1,000 per distributor (delegated), then Buy 1 of $8,000 and Buy 2 of $12,000 after 21 days of sales data. |
 | Prep, labels, inbound freight | 1,800 | Roughly $1.25 per unit for about 1,400 units. |
 | Software | 600 | Keepa data ($20 per month) and a repricer ($50 to $100 per month) for six months. Helium 10 is already paid. |
 | Ungating invoices and distributor minimums | 1,600 | Small qualifying buys we would sell anyway. |
-| Reserve | 4,000 | Returns, removal orders, a bad SKU, Amazon reserve holds. Not touched without Ken. |
+| Reserve | 8,000 | Returns, removal orders, a bad SKU, Amazon reserve holds. Not touched without Ken. |
 
 Nothing from this budget moves until Ken approves the first buy list line by line. Cards and bank details stay with Ken.
 

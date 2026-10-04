@@ -9,12 +9,16 @@ Sent 30 September 2026 by Kenneth Young (Elite-Edge-Analytics, LLC d/b/a Kettlon
 | 3 | Wahl Professional Animal | Pocket Pro Equine Trimmer (B00MNMDO3S) | Distributor web form (Amazon resale disclosed: Yes) | any @wahl.com, @wahlusa.com, @wahlpro.com | 30 Sep 2026 | 5 Oct 2026 | 12 Oct 2026 | Awaiting reply (checked 4 Oct 2026, no reply) |
 | 4 | Reptile Supply Co. | Repashy Superfoods (B0D7JYJ99S) | Email to info@reptilesupplyco.com | info@reptilesupplyco.com, any @reptilesupplyco.com | 30 Sep 2026 | 5 Oct 2026 | 12 Oct 2026 | Awaiting reply (checked 4 Oct 2026, no reply) |
 | 5 | American Safety Distributors (Miami) | AFP full-brim sun shield (B0DKB3TXX5) | Web form (auto-reply expected) | any @americansafetydist.com; 305-262-2234 | 30 Sep 2026 | 5 Oct 2026 | 12 Oct 2026 | Awaiting reply (checked 4 Oct 2026, no reply) |
+| 6 | Animal Supply Company | Pet supplies price list (distributor gate, ops/DISTRIBUTOR_TARGETS.md #16) | Email to accounts@animalsupply.com | any @animalsupply.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
+| 7 | ACD Distribution | Toys and hobby games price list (#24) | Email to applications@acdd.com | any @acdd.com; 800-767-4263 | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
+| 8 | Big Rock Sports | Outdoor and sporting goods price list, no firearms (#18) | Email to Apply@bigrocksports.com | any @bigrocksports.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
 
 ## Check log
 
 - 1 Oct 2026: Gmail checked for all five supplier domains and draft subjects. No new replies, no auto-replies. CarPro decline already answered 30 Sep. No follow-ups due before 5 Oct. Modern Toyota, Wahl and American Safety have no email thread yet, so follow-up 1 on 5 Oct will need a manual web form or call by Ken unless an address surfaces.
 - 2 Oct 2026: Gmail checked for all supplier domains and draft subjects. No replies or auto-replies; only Ken's sent Reptile Supply Co. messages found. No follow-ups due before 5 Oct. Modern Toyota, Wahl and American Safety still have no email thread, so their follow-up 1 remains a manual item for Ken.
 - 3 Oct 2026: Gmail checked for all supplier domains and draft subjects. No supplier replies or auto-replies; only Ken's sent Reptile Supply Co. messages and unrelated prep center mail found. No follow-ups due before 5 Oct. Modern Toyota, Wahl and American Safety still have no email thread, so their follow-up 1 on 5 Oct stays a manual item for Ken; Reptile Supply Co. follow-up 1 goes by email on 5 Oct.
+- 4 Oct 2026, 3:12 PM ET: Wholesale-only pivot. Inquiry emails sent to Animal Supply Company, ACD Distribution and Big Rock Sports asking whether Amazon-primary retailers are accepted before the full application is filed. Remaining targets are in ops/DISTRIBUTOR_TARGETS.md.
 - 4 Oct 2026: Gmail checked for all supplier domains and draft subjects. No supplier replies or auto-replies; only Ken's sent Reptile Supply Co. messages and unrelated prep center mail found. No follow-ups due until 5 Oct. Next run sends Reptile Supply Co. follow-up 1 by email; Modern Toyota, Wahl and American Safety follow-up 1 stays a manual item for Ken (no email thread).
 
 ## Follow-up rules
