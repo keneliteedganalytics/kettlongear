@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:21-04:00",
+  "updated_at": "2026-10-04T06:39-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -92,7 +92,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-03)",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-04)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -107,11 +107,15 @@
       {
         "date": "2026-10-03",
         "signups": 0
+      },
+      {
+        "date": "2026-10-04",
+        "signups": 0
       }
     ]
   },
   "email": {
-    "kettlon_inbound_7d": 51,
+    "kettlon_inbound_7d": 63,
     "replied_7d": 2,
     "awaiting_ken": 0,
     "held_drafts": [
@@ -332,6 +336,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-04",
+      "text": "Metrics refresh 4 Oct: inbound 7d 51->63 (Alibaba seller messages, Smart Prep reminder 10:05 UTC, Helium 10), replied 2, awaiting 0. 0 waitlist/warranty forms. No Amazon verification-passed email. HTTPS cert still *.github.io. Instagram counts not reachable today; Comet offline so Meta ads and Seller Central skipped."
+    },
     {
       "date": "2026-10-03",
       "text": "Supplier check 3 Oct 2026: no new supplier replies. Follow-up 1 due 5 Oct (Reptile Supply Co. by email; Modern Toyota, Wahl, American Safety manual)."
