@@ -638,7 +638,7 @@
     }
   ],
   "cushion_supplier_comparison": {
-    "checked_at": "2026-10-03T01:01:52+00:00",
+    "checked_at": "2026-10-04T15:02:00+00:00",
     "status": "Provisional; no complete comparable quote or verified delivered sample cost",
     "decision": "Do not select a winner or authorize purchases until specification, delivered sample cost, lead time and commercial terms are verified.",
     "suppliers": [
@@ -737,10 +737,13 @@
         "source_thread_id": "1a0ff483300c9a3a",
         "source_channel": "email",
         "quoted_at": "2026-10-02T10:56:41+00:00",
-        "latest_supplier_message": "Yes, $155 covers all three samples including your logo and shipping to your address. I will draft the order for you on Alibaba.",
-        "latest_supplier_message_at": "2026-10-03T01:01:52+00:00",
-        "latest_message_status": "Notification-only email; Comet offline. Alibaba order link not yet observed, and reply status unverified.",
-        "next_action": "Read Alibaba thread and check existing replies when Comet is available. Await review-only order link; do not approve or pay. Confirm currency, sample colors, exact construction, express method, return date, transit, compliance, Amazon prep and 30/70 Trade Assurance terms. No comparable winner yet."
+        "latest_supplier_message": "OK, hold on please",
+        "latest_supplier_message_at": "2026-10-04T14:30:39+00:00",
+        "latest_message_channel": "email",
+        "latest_message_thread_id": "1a104c0c0f72fbbf",
+        "latest_message_email_id": "1a107530657b3460",
+        "latest_message_status": "Notification-only email; Comet offline. Supplier asks us to wait. Full Alibaba conversation, order link and reply status unverified. Related-product $2.15 listing excluded from quotes.",
+        "next_action": "Await supplier follow-up without duplicate outreach. Read Alibaba thread and check existing replies when Comet is available. Await review-only order link; do not approve or pay. Confirm currency, sample colors, exact construction, express method, return date, transit, compliance, Amazon prep and 30/70 Trade Assurance terms. No comparable winner yet."
       }
     ],
     "comparison_gates": [
