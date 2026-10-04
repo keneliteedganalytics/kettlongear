@@ -12,6 +12,10 @@ Sent 30 September 2026 by Kenneth Young (Elite-Edge-Analytics, LLC d/b/a Kettlon
 | 6 | Animal Supply Company | Pet supplies price list (distributor gate, ops/DISTRIBUTOR_TARGETS.md #16) | Email to accounts@animalsupply.com | any @animalsupply.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
 | 7 | ACD Distribution | Toys and hobby games price list (#24) | Email to applications@acdd.com | any @acdd.com; 800-767-4263 | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
 | 8 | Big Rock Sports | Outdoor and sporting goods price list, no firearms (#18) | Email to Apply@bigrocksports.com | any @bigrocksports.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
+| 9 | Phillips Pet Food and Supplies | Pet supplies price list (#1) | Email to Newaccounts@phillipspet.com | any @phillipspet.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
+| 10 | Meyer Distributing | Automotive and truck accessories price list (#9) | Email to CustApps@meyerdistributing.com | any @meyerdistributing.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
+| 11 | Great Lakes Wholesale | General merchandise price list, 1,000 USD opening minimum (#24) | Email to sales@glwholesale.com | any @glwholesale.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply (asked whether Amazon-primary retailers are accepted) |
+| 12 | Turn 14 Distribution | Automotive performance parts price list (#11) | Email to general@turn14.com | any @turn14.com | 4 Oct 2026 | 9 Oct 2026 | 16 Oct 2026 | Awaiting reply; published policy excludes marketplace-dominant sellers, expect a decline |
 
 ## Check log
 
@@ -28,3 +32,4 @@ Sent 30 September 2026 by Kenneth Young (Elite-Edge-Analytics, LLC d/b/a Kettlon
 3. Follow-ups for the web-form suppliers go by email to the supplier's published address if a reply address has surfaced, otherwise by the same web form.
 4. Any reply with pricing, minimums, or account terms is logged to data/metrics.json (wholesale_lane.skus[].status) and summarized to Ken the same day.
 5. Nothing gets ordered or paid without Ken's explicit approval.
+- 4 Oct 2026, 3:31 PM ET: Ken authorized the four held wave-1 inquiries; sent to Phillips Pet, Meyer, Great Lakes Wholesale and Turn 14 (rows 9 to 12).

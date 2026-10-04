@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T15:21-04:00",
+  "updated_at": "2026-10-04T15:34-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -96,7 +96,8 @@
         "date": "2026-10-04",
         "signups": 0
       }
-    ]
+    ],
+    "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
     "kettlon_inbound_7d": 63,
@@ -283,14 +284,33 @@
           "to": "Apply@bigrocksports.com",
           "date": "2026-10-04",
           "status": "awaiting reply"
+        },
+        {
+          "name": "Phillips Pet Food and Supplies",
+          "to": "Newaccounts@phillipspet.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
+        },
+        {
+          "name": "Meyer Distributing",
+          "to": "CustApps@meyerdistributing.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
+        },
+        {
+          "name": "Great Lakes Wholesale",
+          "to": "sales@glwholesale.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
+        },
+        {
+          "name": "Turn 14 Distribution",
+          "to": "general@turn14.com",
+          "date": "2026-10-04",
+          "status": "awaiting reply"
         }
       ],
-      "awaiting_ken_go_ahead": [
-        "Phillips Pet Food and Supplies",
-        "Meyer Distributing",
-        "Great Lakes Wholesale",
-        "Turn 14 Distribution"
-      ],
+      "awaiting_ken_go_ahead": [],
       "original_requests": [
         "Modern Toyota Wholesale Parts",
         "Wahl Professional Animal",
@@ -341,6 +361,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-04",
+      "text": "kettlongear.com rebuilt as wholesale brand placeholder; wave-1 inquiries sent to Phillips Pet, Meyer, Great Lakes Wholesale and Turn 14"
+    },
     {
       "date": "2026-10-04",
       "text": "Alibaba stand-down sent to all 7 supplier conversations; Meta campaign Kettlon Prelaunch Traffic turned off (103.46 USD spent, 101 landing page views)"
@@ -456,10 +480,6 @@
     {
       "date": "2026-09-30",
       "text": "Wholesale scan: 200 Black Box rows screened, 27 passed, 5 tier-1 candidates staged for supplier quotes (Toyota OEM filter, Wahl, CarPro, Repashy, AFP PPE). Awaiting Ken approval for outreach."
-    },
-    {
-      "date": "2026-09-30",
-      "text": "Illinois REG-1 sales and use tax registration submitted by Ken via MyTax Illinois (Chicago/Cook changing location). Awaiting account ID for CRT-61 resale certificates."
     }
   ],
   "supplier_quotes": [
