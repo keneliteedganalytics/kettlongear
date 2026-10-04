@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T15:34-04:00",
+  "updated_at": "2026-10-04T17:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -271,7 +271,10 @@
           "name": "Animal Supply Company",
           "to": "accounts@animalsupply.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "delivery failed 2026-10-04; verify official contact before resend",
+          "delivery_error": "Recipient-not-found notice; 554 5.4.14 hop count exceeded / possible mail loop",
+          "delivery_notice_email_id": "1a108555f526c8a4",
+          "followup_status": "paused pending verified contact"
         },
         {
           "name": "ACD Distribution",
@@ -361,6 +364,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-04",
+      "text": "Inbox safety net: Animal Supply inquiry bounced on 4 Oct 2026 at 19:12:53 UTC (email 1a108555f526c8a4), recipient-not-found notice with 554 5.4.14 possible mail loop. Ledger and distributor status corrected; follow-ups paused pending verified contact. No resend or payment action."
+    },
     {
       "date": "2026-10-04",
       "text": "kettlongear.com rebuilt as wholesale brand placeholder; wave-1 inquiries sent to Phillips Pet, Meyer, Great Lakes Wholesale and Turn 14"
@@ -476,10 +483,6 @@
     {
       "date": "2026-09-30",
       "text": "Wholesale lane: all five supplier outreach messages delivered 30 Sep 2026 (Toyota web form lead 14637, CarPro email + site account, Wahl distributor form, Reptile Supply email, ASD web form). Follow-ups scheduled 5 Oct and 12 Oct."
-    },
-    {
-      "date": "2026-09-30",
-      "text": "Wholesale scan: 200 Black Box rows screened, 27 passed, 5 tier-1 candidates staged for supplier quotes (Toyota OEM filter, Wahl, CarPro, Repashy, AFP PPE). Awaiting Ken approval for outreach."
     }
   ],
   "supplier_quotes": [
