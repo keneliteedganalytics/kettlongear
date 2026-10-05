@@ -25,6 +25,8 @@ Account details used on every application: Elite-Edge-Analytics, LLC d/b/a Kettl
 
 ## Tier B: no storefront rule stated, minimums not stated, application or call needed
 
+Verified account exception, 5 October 2026: ACD Distribution (#24) declined Kettlon's inquiry. Brett Bergeman stated that ACD is currently not opening accounts for businesses without their own brick-and-mortar store. Treat #24 as inactive for online-only Kettlon; this is not evidence of a blanket Amazon resale prohibition. Email 1a10e152340bc82c; acknowledged and follow-ups stopped in ops/SUPPLIER_FOLLOWUP_LEDGER.md.
+
 | # | Distributor | Categories | What the page says | Documents asked | Apply | Source |
 |---|---|---|---|---|---|---|
 | 15 | Phillips Pet Food and Supplies, Easton PA | Pet food and supplies, national distributor | Storefront and online policy not stated | Federal Tax ID, state resale or exemption form | [Online application](https://www.phillipspet.com/resources/new-customers/), 800-451-2817, Newaccounts@phillipspet.com | [Phillips new customers](https://www.phillipspet.com/resources/new-customers/) |

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T09:24-04:00",
+  "updated_at": "2026-10-05T18:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -284,7 +284,16 @@
           "name": "ACD Distribution",
           "to": "applications@acdd.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "declined 2026-10-05: brick-and-mortar store required; thanked in-thread; follow-ups stopped",
+          "reply_email_id": "1a10e152340bc82c",
+          "reply_date": "2026-10-05T22:00:00+00:00",
+          "categories": "Toys and hobby games",
+          "amazon_resale": "refused for online-only Kettlon under current brick-and-mortar requirement; no blanket Amazon prohibition stated",
+          "opening_minimum": null,
+          "terms": "Currently not opening accounts with businesses without their own brick-and-mortar store; no payment, lead-time or freight terms provided",
+          "price_list_received": false,
+          "followup_status": "stopped: account declined",
+          "acknowledgement_sent_at": "2026-10-05T22:03:00+00:00"
         },
         {
           "name": "Big Rock Sports",
@@ -326,7 +335,8 @@
         "American Safety Distributors"
       ],
       "declined": [
-        "CarPro-US (2026-09-30)"
+        "CarPro-US (2026-09-30)",
+        "ACD Distribution (2026-10-05; brick-and-mortar store required)"
       ]
     }
   },
@@ -369,6 +379,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-05",
+      "text": "Distributor reply: ACD Distribution declined online-only Kettlon account; brick-and-mortar store required. Thank-you sent, follow-ups stopped; no price list received."
+    },
     {
       "date": "2026-10-05",
       "text": "5 Oct: Meyer Distributing accepts Amazon resellers, sent application and CRT-61 (prefilled, awaiting Ken signature). Reptile Supply Co. follow-up 1 sent. Modern Toyota, Wahl, American Safety follow-ups are manual for Ken."
@@ -484,10 +498,6 @@
     {
       "date": "2026-10-01",
       "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
-    },
-    {
-      "date": "2026-09-30",
-      "text": "CarPro-US declined reseller account 30 Sep 2026 (no Amazon resellers). Thank-you sent. Squarespace ICANN contact verification for kettlongear.com completed. Inbox handler scope widened; twice-daily inbox sweep added."
     }
   ],
   "supplier_quotes": [
