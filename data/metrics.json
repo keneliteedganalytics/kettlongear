@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T06:39-04:00",
+  "updated_at": "2026-10-05T09:24-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -302,7 +302,8 @@
           "name": "Meyer Distributing",
           "to": "CustApps@meyerdistributing.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "replied 2026-10-05: Amazon resale accepted; application and CRT-61 received, prefilled, awaiting Ken signature; price list requested",
+          "reply_email_id": "1a10c2b8828c54be"
         },
         {
           "name": "Great Lakes Wholesale",
@@ -368,6 +369,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-05",
+      "text": "5 Oct: Meyer Distributing accepts Amazon resellers, sent application and CRT-61 (prefilled, awaiting Ken signature). Reptile Supply Co. follow-up 1 sent. Modern Toyota, Wahl, American Safety follow-ups are manual for Ken."
+    },
     {
       "date": "2026-10-05",
       "text": "Metrics refresh 5 Oct: 84 Kettlon inbound emails in 7d (mostly Alibaba seller messages, Amazon, Helium 10, Smart Prep Center), 13 threads last answered by Ken, 0 awaiting (unanswered items are solicitations). 0 waitlist/warranty forms. HTTPS cert still *.github.io. No Amazon verification-passed email; Amazon.ca/.com.br verification prompts 4 Oct. Alibaba drafted Trade Assurance order 155 USD (stadium cushion) awaiting payment after stand-down; not paid. Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
@@ -483,10 +488,6 @@
     {
       "date": "2026-09-30",
       "text": "CarPro-US declined reseller account 30 Sep 2026 (no Amazon resellers). Thank-you sent. Squarespace ICANN contact verification for kettlongear.com completed. Inbox handler scope widened; twice-daily inbox sweep added."
-    },
-    {
-      "date": "2026-09-30",
-      "text": "IDOR processed REG-1 30 Sep 2026: business income tax and sales/use tax accounts assigned. MyTax logon activation waits one full business day; retry scheduled 2 Oct 2026 9:00 AM ET."
     }
   ],
   "supplier_quotes": [
