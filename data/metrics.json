@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T18:03-04:00",
+  "updated_at": "2026-10-06T06:39-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-05)",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-06)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -99,13 +99,17 @@
       {
         "date": "2026-10-05",
         "signups": 0
+      },
+      {
+        "date": "2026-10-06",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 84,
-    "replied_7d": 13,
+    "kettlon_inbound_7d": 88,
+    "replied_7d": 11,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -380,6 +384,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-06",
+      "text": "Metrics refresh 6 Oct: Kettlon inbound 7d 84->88 (Smart Prep reminder 10:05 UTC, Alibaba notifications, Meyer/ACD replies), replied 13->11 (external threads last answered by Ken; Smart Prep thread now inbound-newest, under 24h), awaiting 0. 0 waitlist/warranty forms. HTTPS cert still *.github.io. No Amazon verification-passed email. Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-05",
       "text": "Distributor reply: ACD Distribution declined online-only Kettlon account; brick-and-mortar store required. Thank-you sent, follow-ups stopped; no price list received."
     },
@@ -494,10 +502,6 @@
     {
       "date": "2026-10-01",
       "text": "Metrics refresh: 21 Kettlon inbound emails in 7d (mostly Alibaba supplier messages), 2 replied, 0 awaiting. Amazon face/ID images cleared 30 Sep, rest of identity review pending. 0 waitlist/warranty forms. HTTPS cert still pending. Instagram counts not reachable today (HTTP 429, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Alibaba message center swept 1 Oct 2026 9:40 AM: 7 threads read, 5 replies sent (Dleap, Power Tiger, TOPKO, Chuangxinhai, Mydays). Best wrist-guard quote so far USD 2.30/pair at 1,200 (Power Tiger)."
     }
   ],
   "supplier_quotes": [
