@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T06:39-04:00",
+  "updated_at": "2026-10-06T08:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -303,7 +303,12 @@
           "name": "Big Rock Sports",
           "to": "Apply@bigrocksports.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "delivery delayed 2026-10-05; Gmail retries active; delivery not confirmed",
+          "delivery_error": "451 Open relay not allowed",
+          "delivery_notice_email_id": "1a10e6212c886964",
+          "delivery_notice_date": "2026-10-05T23:24:30+00:00",
+          "retry_until_approx": "2026-10-07T18:24:30+00:00",
+          "followup_status": "9 Oct and 16 Oct conditional on delivery; no resend while retries active; verify official contact if permanent failure arrives"
         },
         {
           "name": "Phillips Pet Food and Supplies",
@@ -383,6 +388,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-06",
+      "text": "6 Oct inbox safety net: Big Rock Sports inquiry delivery delayed (notice 1a10e6212c886964, 5 Oct 23:24:30 UTC; remote 451 Open relay not allowed). Gmail retries for 43 more hours, approximately through 7 Oct 18:24:30 UTC; delivery not confirmed, no resend. Supplier ledger and metrics reconciled. Meyer and ACD already answered. Smart Prep reminder repeats unresolved onboarding and payment promotion; held for Ken, no money or credential action. Alibaba acknowledgement needs no reply."
+    },
     {
       "date": "2026-10-06",
       "text": "Metrics refresh 6 Oct: Kettlon inbound 7d 84->88 (Smart Prep reminder 10:05 UTC, Alibaba notifications, Meyer/ACD replies), replied 13->11 (external threads last answered by Ken; Smart Prep thread now inbound-newest, under 24h), awaiting 0. 0 waitlist/warranty forms. HTTPS cert still *.github.io. No Amazon verification-passed email. Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
@@ -498,10 +507,6 @@
     {
       "date": "2026-10-01",
       "text": "New quote: Shenzhenshi Chuangxinhai Craft stadium cushion $2.23 related-product listing only, unconfirmed; Mia Deng greeting received. Alibaba browser unavailable."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Metrics refresh: 21 Kettlon inbound emails in 7d (mostly Alibaba supplier messages), 2 replied, 0 awaiting. Amazon face/ID images cleared 30 Sep, rest of identity review pending. 0 waitlist/warranty forms. HTTPS cert still pending. Instagram counts not reachable today (HTTP 429, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
     }
   ],
   "supplier_quotes": [
