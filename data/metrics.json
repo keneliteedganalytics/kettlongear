@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T09:22-04:00",
+  "updated_at": "2026-10-07T06:41-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-06)",
+    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-07)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -103,12 +103,16 @@
       {
         "date": "2026-10-06",
         "signups": 0
+      },
+      {
+        "date": "2026-10-07",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 88,
+    "kettlon_inbound_7d": 94,
     "replied_7d": 11,
     "awaiting_ken": 0,
     "held_drafts": [
@@ -389,6 +393,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-07",
+      "text": "Metrics refresh 7 Oct: Kettlon inbound 7d 88->94 (fresh 7-day sweep incl. Smart Prep reminder 7 Oct 10:05 UTC, Big Rock Sports second delay notice 6 Oct 20:34 UTC, Alibaba, Squarespace), replied 11 (no new Ken replies), awaiting 0. 0 waitlist/warranty forms. HTTP 200; HTTPS cert still *.github.io. No Amazon verification-passed email. Big Rock Sports delivery still delayed (451 Open relay not allowed; Gmail retry window about 22h from 6 Oct 20:34 UTC). Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-06",
       "text": "6 Oct 2026 distributor check: no new replies, no follow-ups due; next due 9 Oct"
     },
@@ -503,10 +511,6 @@
     {
       "date": "2026-10-01",
       "text": "Authority set 1 Oct 2026: autonomous operation; approval needed only for commitments over 1,000 USD. Power Tiger and Dleap asked to issue Trade Assurance sample links today."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Supplier follow-up check 1 Oct: no new wholesale replies (1 of 5, CarPro decline). Follow-up 1 due 5 Oct."
     }
   ],
   "supplier_quotes": [
