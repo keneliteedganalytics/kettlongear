@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T06:41-04:00",
+  "updated_at": "2026-10-07T08:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -309,9 +309,9 @@
           "date": "2026-10-04",
           "status": "delivery delayed 2026-10-05; Gmail retries active; delivery not confirmed",
           "delivery_error": "451 Open relay not allowed",
-          "delivery_notice_email_id": "1a10e6212c886964",
-          "delivery_notice_date": "2026-10-05T23:24:30+00:00",
-          "retry_until_approx": "2026-10-07T18:24:30+00:00",
+          "delivery_notice_email_id": "1a112ec8f8d7851f",
+          "delivery_notice_date": "2026-10-06T20:34:15+00:00",
+          "retry_until_approx": "2026-10-07T18:34:15+00:00",
           "followup_status": "9 Oct and 16 Oct conditional on delivery; no resend while retries active; verify official contact if permanent failure arrives"
         },
         {
@@ -337,7 +337,15 @@
           "name": "Turn 14 Distribution",
           "to": "general@turn14.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "declined 2026-10-07: Amazon/marketplace seller accounts not approved; already thanked in-thread; follow-ups stopped",
+          "reply_email_id": "1a1163b7c8e583a4",
+          "reply_date": "2026-10-07T11:58:42+00:00",
+          "amazon_resale": "not approved under current business model",
+          "terms": "Current model exclusively serves commercial brick-and-mortar storefronts, installation centers and performance tuning shops; no pricing or account terms supplied",
+          "price_list_received": false,
+          "followup_status": "stopped: account declined",
+          "acknowledgement_email_id": "1a1163c0080f83ce",
+          "acknowledgement_sent_at": "2026-10-07T11:59:53+00:00"
         }
       ],
       "awaiting_ken_go_ahead": [],
@@ -349,7 +357,8 @@
       ],
       "declined": [
         "CarPro-US (2026-09-30)",
-        "ACD Distribution (2026-10-05; brick-and-mortar store required)"
+        "ACD Distribution (2026-10-05; brick-and-mortar store required)",
+        "Turn 14 Distribution (2026-10-07; Amazon/marketplace seller accounts not approved)"
       ]
     }
   },
@@ -392,6 +401,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-07",
+      "text": "7 Oct inbox safety net: Turn 14 declined Amazon/marketplace seller account at 11:58:42 UTC (1a1163b7c8e583a4); Ken reply already sent 11:59:53 UTC (1a1163c0080f83ce). Ledger and metrics reconciled; follow-ups stopped; no duplicate reply. Big Rock remains delivery delayed; latest notice 6 Oct 20:34:15 UTC says 22 more retry hours, approximately through 7 Oct 18:34:15 UTC; no resend. Smart Prep repeated payment promotion held for Ken as possible phishing until independently verified; no payment or credentials handled. Marketing excluded."
+    },
     {
       "date": "2026-10-07",
       "text": "Metrics refresh 7 Oct: Kettlon inbound 7d 88->94 (fresh 7-day sweep incl. Smart Prep reminder 7 Oct 10:05 UTC, Big Rock Sports second delay notice 6 Oct 20:34 UTC, Alibaba, Squarespace), replied 11 (no new Ken replies), awaiting 0. 0 waitlist/warranty forms. HTTP 200; HTTPS cert still *.github.io. No Amazon verification-passed email. Big Rock Sports delivery still delayed (451 Open relay not allowed; Gmail retry window about 22h from 6 Oct 20:34 UTC). Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
@@ -507,10 +520,6 @@
     {
       "date": "2026-10-01",
       "text": "Alibaba: no saved payment card (checked 1 Oct 11:10 ET); default ship-to added, 126 Parkview Drive Sewickley PA 15143-9105. Add card screen handed to Ken."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Authority set 1 Oct 2026: autonomous operation; approval needed only for commitments over 1,000 USD. Power Tiger and Dleap asked to issue Trade Assurance sample links today."
     }
   ],
   "supplier_quotes": [
