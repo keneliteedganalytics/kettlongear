@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:03-04:00",
+  "updated_at": "2026-10-07T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -403,6 +403,10 @@
   "log": [
     {
       "date": "2026-10-07",
+      "text": "7 Oct 2026 distributor check: no new replies, no follow-ups due; Big Rock delivery still delayed"
+    },
+    {
+      "date": "2026-10-07",
       "text": "7 Oct inbox safety net: Turn 14 declined Amazon/marketplace seller account at 11:58:42 UTC (1a1163b7c8e583a4); Ken reply already sent 11:59:53 UTC (1a1163c0080f83ce). Ledger and metrics reconciled; follow-ups stopped; no duplicate reply. Big Rock remains delivery delayed; latest notice 6 Oct 20:34:15 UTC says 22 more retry hours, approximately through 7 Oct 18:34:15 UTC; no resend. Smart Prep repeated payment promotion held for Ken as possible phishing until independently verified; no payment or credentials handled. Marketing excluded."
     },
     {
@@ -516,10 +520,6 @@
     {
       "date": "2026-10-01",
       "text": "New quote: Shenzhen Beone / Sammia Zhu stadium cushion sample $100 per piece, currency unconfirmed, one red sample maximum; details requested, no purchase approved"
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Alibaba: no saved payment card (checked 1 Oct 11:10 ET); default ship-to added, 126 Parkview Drive Sewickley PA 15143-9105. Add card screen handed to Ken."
     }
   ],
   "supplier_quotes": [
