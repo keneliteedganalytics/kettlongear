@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T08:03-04:00",
+  "updated_at": "2026-10-08T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -408,6 +408,10 @@
   "log": [
     {
       "date": "2026-10-08",
+      "text": "Distributor check 8 Oct 2026: no new replies, no follow-ups due"
+    },
+    {
+      "date": "2026-10-08",
       "text": "8 Oct inbox safety net: Big Rock Sports final delivery failure 1a118f3569264ec0 at 00:39:22 UTC matched to original inquiry thread 1a1085509e76521a; remote 451 Open relay not allowed. Ledger and metrics changed to delivery failed; follow-ups paused pending verified contact; no reply or resend. Smart Prep payment reminder held for Ken as possible phishing until independently verified. Alibaba card and catalog notices need no reply; marketing excluded."
     },
     {
@@ -521,10 +525,6 @@
     {
       "date": "2026-10-01",
       "text": "Do-outs ledger created ops/DO_OUTS.md. Smart Prep Center reply sent 7:57 PM ET (registration details, 3 meeting slots, 400 USD deposit accepted). Comet offline since noon: 7 Alibaba messages unanswered. No Amazon approval email as of 7:55 PM ET."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Prep center: Smart Prep Center (Newark DE) account requested 1 Oct 2026, StartUp wholesale rate 0.50/unit, reply due within 1 business day"
     }
   ],
   "supplier_quotes": [
