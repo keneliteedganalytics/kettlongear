@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T09:21-04:00",
+  "updated_at": "2026-10-08T06:40-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (cert still *.github.io as of 2026-10-07)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-08)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -107,13 +107,17 @@
       {
         "date": "2026-10-07",
         "signups": 0
+      },
+      {
+        "date": "2026-10-08",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 94,
-    "replied_7d": 11,
+    "kettlon_inbound_7d": 70,
+    "replied_7d": 17,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -402,6 +406,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-08",
+      "text": "Metrics refresh 8 Oct: 7-day Kettlon sweep 96 unique messages, inbound (non-Ken) 70 (method now excludes Ken's own sent mail; prior 94 counted all), replied threads 17, awaiting 0 (Safouan Chbabi / Standard Ops 'before Kettlon launches' 7 Oct 23:05 UTC under 24h). New: Smart Prep reminder 8 Oct 10:05 UTC, two Alibaba seller-message notices, Helium 10 newsletter. 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails. No Amazon verification-passed email (resubmission due ~12 Oct). Instagram, Meta ads, Seller Central skipped: Comet browser not reachable; Instagram counts not reachable today."
+    },
+    {
       "date": "2026-10-07",
       "text": "7 Oct 2026 distributor check: no new replies, no follow-ups due; Big Rock delivery still delayed"
     },
@@ -516,10 +524,6 @@
     {
       "date": "2026-10-01",
       "text": "Cushion comparison saved: Beone $100 one red sample, currency and delivered total unconfirmed; Funihe USD 3 indicative RFQ, custom spec unconfirmed; Chuangxinhai thickness mismatch; Mydays holiday response pending. Track complete offers and Trade Assurance links without purchase approval."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "New quote: Shenzhen Beone / Sammia Zhu stadium cushion sample $100 per piece, currency unconfirmed, one red sample maximum; details requested, no purchase approved"
     }
   ],
   "supplier_quotes": [
