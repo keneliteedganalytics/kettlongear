@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T06:40-04:00",
+  "updated_at": "2026-10-08T08:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -311,12 +311,13 @@
           "name": "Big Rock Sports",
           "to": "Apply@bigrocksports.com",
           "date": "2026-10-04",
-          "status": "delivery delayed 2026-10-05; Gmail retries active; delivery not confirmed",
+          "status": "delivery failed 2026-10-08: final Gmail failure notice; verify official contact before resend",
           "delivery_error": "451 Open relay not allowed",
-          "delivery_notice_email_id": "1a112ec8f8d7851f",
-          "delivery_notice_date": "2026-10-06T20:34:15+00:00",
-          "retry_until_approx": "2026-10-07T18:34:15+00:00",
-          "followup_status": "9 Oct and 16 Oct conditional on delivery; no resend while retries active; verify official contact if permanent failure arrives"
+          "delivery_notice_email_id": "1a118f3569264ec0",
+          "delivery_notice_date": "2026-10-08T00:39:22+00:00",
+          "retry_until_approx": null,
+          "original_inquiry_thread_id": "1a1085509e76521a",
+          "followup_status": "paused: delivery failed; verify official contact through official site or phone before any resend"
         },
         {
           "name": "Phillips Pet Food and Supplies",
@@ -405,6 +406,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-08",
+      "text": "8 Oct inbox safety net: Big Rock Sports final delivery failure 1a118f3569264ec0 at 00:39:22 UTC matched to original inquiry thread 1a1085509e76521a; remote 451 Open relay not allowed. Ledger and metrics changed to delivery failed; follow-ups paused pending verified contact; no reply or resend. Smart Prep payment reminder held for Ken as possible phishing until independently verified. Alibaba card and catalog notices need no reply; marketing excluded."
+    },
     {
       "date": "2026-10-08",
       "text": "Metrics refresh 8 Oct: 7-day Kettlon sweep 96 unique messages, inbound (non-Ken) 70 (method now excludes Ken's own sent mail; prior 94 counted all), replied threads 17, awaiting 0 (Safouan Chbabi / Standard Ops 'before Kettlon launches' 7 Oct 23:05 UTC under 24h). New: Smart Prep reminder 8 Oct 10:05 UTC, two Alibaba seller-message notices, Helium 10 newsletter. 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails. No Amazon verification-passed email (resubmission due ~12 Oct). Instagram, Meta ads, Seller Central skipped: Comet browser not reachable; Instagram counts not reachable today."
@@ -520,10 +525,6 @@
     {
       "date": "2026-10-01",
       "text": "Prep center: Smart Prep Center (Newark DE) account requested 1 Oct 2026, StartUp wholesale rate 0.50/unit, reply due within 1 business day"
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Cushion comparison saved: Beone $100 one red sample, currency and delivered total unconfirmed; Funihe USD 3 indicative RFQ, custom spec unconfirmed; Chuangxinhai thickness mismatch; Mydays holiday response pending. Track complete offers and Trade Assurance links without purchase approval."
     }
   ],
   "supplier_quotes": [
