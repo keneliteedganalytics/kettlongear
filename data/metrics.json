@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:22-04:00",
+  "updated_at": "2026-10-09T16:03-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -327,8 +327,19 @@
           "name": "Phillips Pet Food and Supplies",
           "to": "Newaccounts@phillipspet.com",
           "date": "2026-10-04",
-          "status": "awaiting reply; follow-up 1 sent 2026-10-09; follow-up 2 due 2026-10-16",
-          "followup_1_sent": "2026-10-09"
+          "status": "declined 2026-10-09: business does not align with current pet-centric focus; Ken already thanked in-thread; follow-ups stopped",
+          "followup_1_sent": "2026-10-09",
+          "reply_email_id": "1a12219e3b7569f2",
+          "reply_date": "2026-10-09T19:18:03+00:00",
+          "categories": "Pet supplies: dog, cat, bird, small animal, reptile and aquatic products",
+          "amazon_resale": "refused for this Kettlon account because business does not align with current pet-centric focus; no blanket Amazon prohibition stated",
+          "opening_minimum": null,
+          "terms": "Account declined; no payment terms, lead time or freight terms supplied",
+          "price_list_received": false,
+          "application_received": false,
+          "followup_status": "stopped: account declined",
+          "acknowledgement_email_id": "1a1221a8ecbaa7a2",
+          "acknowledgement_sent_at": "2026-10-09T19:18:48+00:00"
         },
         {
           "name": "Meyer Distributing",
@@ -369,7 +380,8 @@
       "declined": [
         "CarPro-US (2026-09-30)",
         "ACD Distribution (2026-10-05; brick-and-mortar store required)",
-        "Turn 14 Distribution (2026-10-07; Amazon/marketplace seller accounts not approved)"
+        "Turn 14 Distribution (2026-10-07; Amazon/marketplace seller accounts not approved)",
+        "Phillips Pet Food and Supplies (2026-10-09; business does not align with current pet-centric focus)"
       ]
     }
   },
@@ -412,6 +424,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-09",
+      "text": "Distributor reply: Phillips Pet Food and Supplies declined Kettlon account because business does not align with current pet-centric focus. No blanket Amazon resale prohibition stated. Ken already acknowledged in-thread at 19:18:48 UTC; no duplicate reply; follow-ups stopped; no price list received."
+    },
     {
       "date": "2026-10-09",
       "text": "9 Oct 2026: no distributor replies; follow-up 1 sent to Phillips Pet and Great Lakes Wholesale"
@@ -527,10 +543,6 @@
     {
       "date": "2026-10-02",
       "text": "2 Oct 9:15 AM ET: Amazon rejected the business registration document (Delaware certificates PDF). Delaware Certificate of Good Standing ordered for re-upload; checkout handed to Ken. Alibaba swept: Mydays cushion quote USD 5.00/4.85/4.70, sample 155 USD accepted pending TA link; reference image sent to Power Tiger and TOPKO; Dleap closed. No Alibaba card yet."
-    },
-    {
-      "date": "2026-10-02",
-      "text": "New quote: Changzhou Mydays / Luna Lu stadium seat cushion $5.00/4.85/4.70 FOB Shanghai at 500/1000/2000; sample $155 including USA shipping; currency unconfirmed; Comet offline"
     }
   ],
   "supplier_quotes": [
