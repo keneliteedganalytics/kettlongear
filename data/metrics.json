@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:40-04:00",
+  "updated_at": "2026-10-09T09:22-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -327,7 +327,8 @@
           "name": "Phillips Pet Food and Supplies",
           "to": "Newaccounts@phillipspet.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "awaiting reply; follow-up 1 sent 2026-10-09; follow-up 2 due 2026-10-16",
+          "followup_1_sent": "2026-10-09"
         },
         {
           "name": "Meyer Distributing",
@@ -340,7 +341,8 @@
           "name": "Great Lakes Wholesale",
           "to": "sales@glwholesale.com",
           "date": "2026-10-04",
-          "status": "awaiting reply"
+          "status": "awaiting reply; follow-up 1 sent 2026-10-09; follow-up 2 due 2026-10-16",
+          "followup_1_sent": "2026-10-09"
         },
         {
           "name": "Turn 14 Distribution",
@@ -410,6 +412,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-09",
+      "text": "9 Oct 2026: no distributor replies; follow-up 1 sent to Phillips Pet and Great Lakes Wholesale"
+    },
     {
       "date": "2026-10-09",
       "text": "Metrics refresh 9 Oct: Kettlon inbound 7d 70->60 (rolling window; 2 Oct Alibaba/Squarespace aged out; new: Alibaba seller messages from Robin Liu, Sammia Zhu, Apollo Fitness, TOPKO file, Smart Prep reminder 8 Oct, Isabelle Sullivan/Kapspulse animation pitch, Helium 10, Amazon store-news), replied 17, awaiting 0 (Standard Ops and Kapspulse are cold solicitations). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails. No Amazon verification-passed email (resubmission due ~12 Oct). Instagram counts not reachable today. Meta ads and Seller Central skipped: Comet browser not reachable."
@@ -525,10 +531,6 @@
     {
       "date": "2026-10-02",
       "text": "New quote: Changzhou Mydays / Luna Lu stadium seat cushion $5.00/4.85/4.70 FOB Shanghai at 500/1000/2000; sample $155 including USA shipping; currency unconfirmed; Comet offline"
-    },
-    {
-      "date": "2026-10-02",
-      "text": "Metrics refresh 2 Oct: Amazon SIV could not complete (business document rejected; resubmit via Seller Central within 10 days). Inbound 7d 21->39, replied 2->3 (Smart Prep reminder answered 6:05 AM ET). 0 waitlist/warranty forms. HTTPS cert still *.github.io. Instagram not reachable (login wall/429); Comet offline so Meta ads and Seller Central skipped."
     }
   ],
   "supplier_quotes": [
