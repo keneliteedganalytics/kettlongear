@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:21-04:00",
+  "updated_at": "2026-10-09T06:40-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-08)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-09)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -111,12 +111,16 @@
       {
         "date": "2026-10-08",
         "signups": 0
+      },
+      {
+        "date": "2026-10-09",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 70,
+    "kettlon_inbound_7d": 60,
     "replied_7d": 17,
     "awaiting_ken": 0,
     "held_drafts": [
@@ -407,6 +411,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-09",
+      "text": "Metrics refresh 9 Oct: Kettlon inbound 7d 70->60 (rolling window; 2 Oct Alibaba/Squarespace aged out; new: Alibaba seller messages from Robin Liu, Sammia Zhu, Apollo Fitness, TOPKO file, Smart Prep reminder 8 Oct, Isabelle Sullivan/Kapspulse animation pitch, Helium 10, Amazon store-news), replied 17, awaiting 0 (Standard Ops and Kapspulse are cold solicitations). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails. No Amazon verification-passed email (resubmission due ~12 Oct). Instagram counts not reachable today. Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-08",
       "text": "Distributor check 8 Oct 2026: no new replies, no follow-ups due"
     },
@@ -521,10 +529,6 @@
     {
       "date": "2026-10-02",
       "text": "Metrics refresh 2 Oct: Amazon SIV could not complete (business document rejected; resubmit via Seller Central within 10 days). Inbound 7d 21->39, replied 2->3 (Smart Prep reminder answered 6:05 AM ET). 0 waitlist/warranty forms. HTTPS cert still *.github.io. Instagram not reachable (login wall/429); Comet offline so Meta ads and Seller Central skipped."
-    },
-    {
-      "date": "2026-10-01",
-      "text": "Do-outs ledger created ops/DO_OUTS.md. Smart Prep Center reply sent 7:57 PM ET (registration details, 3 meeting slots, 400 USD deposit accepted). Comet offline since noon: 7 Alibaba messages unanswered. No Amazon approval email as of 7:55 PM ET."
     }
   ],
   "supplier_quotes": [
