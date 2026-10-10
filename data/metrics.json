@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T06:39-04:00",
+  "updated_at": "2026-10-10T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -430,6 +430,10 @@
   "log": [
     {
       "date": "2026-10-10",
+      "text": "Distributor check 10 Oct 2026: no new replies; no follow-ups due"
+    },
+    {
+      "date": "2026-10-10",
       "text": "Metrics refresh 10 Oct: Kettlon inbound 7d 60->54 (rolling window; 3 Oct items aged out; new: Alibaba Apollo Fitness seller message 10 Oct, UENI website pitches 9 Oct, Amazon store-news), replied 17->19 (threads newest from Ken, incl. Phillips ack and 9 Oct follow-ups), awaiting 0 (Ogi Rakov, Standard Ops, Kapspulse, UENI are cold solicitations). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (*.github.io cert). No Amazon verification-passed email (resubmission due ~12 Oct). Instagram counts not reachable today (HTTP 302; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -543,10 +547,6 @@
     {
       "date": "2026-10-02",
       "text": "2 Oct 9:20 AM ET: Delaware Certificate of Good Standing paid, Delaware Business Incorporators order 2026-8992, 134.10 USD. PDF expected by email within about 2 hours; upload automation fires 12:00 PM ET."
-    },
-    {
-      "date": "2026-10-02",
-      "text": "2 Oct 2026 supplier check: no replies from Modern Toyota, Wahl, Reptile Supply Co., American Safety; no follow-ups due until 5 Oct"
     }
   ],
   "supplier_quotes": [
