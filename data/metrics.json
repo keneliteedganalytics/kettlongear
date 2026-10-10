@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T16:03-04:00",
+  "updated_at": "2026-10-10T06:39-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-09)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-10; cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -115,13 +115,17 @@
       {
         "date": "2026-10-09",
         "signups": 0
+      },
+      {
+        "date": "2026-10-10",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 60,
-    "replied_7d": 17,
+    "kettlon_inbound_7d": 54,
+    "replied_7d": 19,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -425,6 +429,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-10",
+      "text": "Metrics refresh 10 Oct: Kettlon inbound 7d 60->54 (rolling window; 3 Oct items aged out; new: Alibaba Apollo Fitness seller message 10 Oct, UENI website pitches 9 Oct, Amazon store-news), replied 17->19 (threads newest from Ken, incl. Phillips ack and 9 Oct follow-ups), awaiting 0 (Ogi Rakov, Standard Ops, Kapspulse, UENI are cold solicitations). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (*.github.io cert). No Amazon verification-passed email (resubmission due ~12 Oct). Instagram counts not reachable today (HTTP 302; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-09",
       "text": "Distributor reply: Phillips Pet Food and Supplies declined Kettlon account because business does not align with current pet-centric focus. No blanket Amazon resale prohibition stated. Ken already acknowledged in-thread at 19:18:48 UTC; no duplicate reply; follow-ups stopped; no price list received."
     },
@@ -539,10 +547,6 @@
     {
       "date": "2026-10-02",
       "text": "2 Oct 2026 supplier check: no replies from Modern Toyota, Wahl, Reptile Supply Co., American Safety; no follow-ups due until 5 Oct"
-    },
-    {
-      "date": "2026-10-02",
-      "text": "2 Oct 9:15 AM ET: Amazon rejected the business registration document (Delaware certificates PDF). Delaware Certificate of Good Standing ordered for re-upload; checkout handed to Ken. Alibaba swept: Mydays cushion quote USD 5.00/4.85/4.70, sample 155 USD accepted pending TA link; reference image sent to Power Tiger and TOPKO; Dleap closed. No Alibaba card yet."
     }
   ],
   "supplier_quotes": [
