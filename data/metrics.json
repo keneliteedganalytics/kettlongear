@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T09:21-04:00",
+  "updated_at": "2026-10-11T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-10; cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-11; cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -119,13 +119,17 @@
       {
         "date": "2026-10-10",
         "signups": 0
+      },
+      {
+        "date": "2026-10-11",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 54,
-    "replied_7d": 19,
+    "kettlon_inbound_7d": 55,
+    "replied_7d": 18,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -429,6 +433,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-11",
+      "text": "Metrics refresh 11 Oct: Kettlon inbound 7d 54->55 (rolling; new: Alibaba Apollo Fitness reminder 10 Oct, 4 PM report 10 Oct), replied 19->18 (rolling window), awaiting 0. 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (*.github.io cert). No Amazon verification-passed email (resubmission due ~12 Oct). Instagram counts not reachable today (HTTP 302 login wall). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-10",
       "text": "Distributor check 10 Oct 2026: no new replies; no follow-ups due"
     },
@@ -543,10 +551,6 @@
     {
       "date": "2026-10-02",
       "text": "2 Oct 12:02 PM ET: Delaware Certificate of Good Standing received (issued 2 Oct 2026, file 10282896, authentication 205305669) and verified. Upload to Seller Central blocked: Comet offline, cloud browser blocked by org policy. Retry scheduled 1:30 PM ET."
-    },
-    {
-      "date": "2026-10-02",
-      "text": "2 Oct 9:20 AM ET: Delaware Certificate of Good Standing paid, Delaware Business Incorporators order 2026-8992, 134.10 USD. PDF expected by email within about 2 hours; upload automation fires 12:00 PM ET."
     }
   ],
   "supplier_quotes": [
