@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T06:40-04:00",
+  "updated_at": "2026-10-12T09:22-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -438,6 +438,10 @@
   "log": [
     {
       "date": "2026-10-12",
+      "text": "12 Oct 2026: no distributor replies; follow-up 2 (final) sent to Reptile Supply Co. in-thread; next due 16 Oct Great Lakes follow-up 2"
+    },
+    {
+      "date": "2026-10-12",
       "text": "Metrics refresh 12 Oct: Kettlon inbound 7d 55->29 (rolling window 5-12 Oct; 4-5 Oct Alibaba stand-down traffic aged out; new: Alibaba seller message 12 Oct 03 AM, Instagram follow-suggestions to kettlongear 12 Oct), replied 18 (unchanged), awaiting 0 (Alibaba notifications, UENI/Kapspulse/Standard Ops solicitations, Smart Prep reminders held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (*.github.io cert). No Amazon verification-passed email; last Seller Central notice 2 Oct, resubmission deadline ~12 Oct (today). Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -551,10 +555,6 @@
     {
       "date": "2026-10-03",
       "text": "New quote: Changzhou Mydays / Luna Lu stadium cushion three logo samples $155 including shipping; currency unconfirmed"
-    },
-    {
-      "date": "2026-10-02",
-      "text": "Supplier update: Chuangxinhai / Mia Deng is confirming maximum foldable thickness and pricing with senior manager. Notification received 2026-10-02T19:05:11Z; no new quote. Comet offline; Alibaba reply status unverified."
     }
   ],
   "supplier_quotes": [
