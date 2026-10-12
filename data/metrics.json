@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T09:21-04:00",
+  "updated_at": "2026-10-12T06:40-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-11; cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-12; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -123,12 +123,16 @@
       {
         "date": "2026-10-11",
         "signups": 0
+      },
+      {
+        "date": "2026-10-12",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 55,
+    "kettlon_inbound_7d": 29,
     "replied_7d": 18,
     "awaiting_ken": 0,
     "held_drafts": [
@@ -433,6 +437,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-12",
+      "text": "Metrics refresh 12 Oct: Kettlon inbound 7d 55->29 (rolling window 5-12 Oct; 4-5 Oct Alibaba stand-down traffic aged out; new: Alibaba seller message 12 Oct 03 AM, Instagram follow-suggestions to kettlongear 12 Oct), replied 18 (unchanged), awaiting 0 (Alibaba notifications, UENI/Kapspulse/Standard Ops solicitations, Smart Prep reminders held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (*.github.io cert). No Amazon verification-passed email; last Seller Central notice 2 Oct, resubmission deadline ~12 Oct (today). Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-11",
       "text": "11 Oct 2026 distributor check: no new replies, no follow-ups due; next due 12 Oct Reptile Supply Co. follow-up 2"
     },
@@ -547,10 +555,6 @@
     {
       "date": "2026-10-02",
       "text": "Supplier update: Chuangxinhai / Mia Deng is confirming maximum foldable thickness and pricing with senior manager. Notification received 2026-10-02T19:05:11Z; no new quote. Comet offline; Alibaba reply status unverified."
-    },
-    {
-      "date": "2026-10-02",
-      "text": "Comet offline at 1:30 PM, certificate still not uploaded"
     }
   ],
   "supplier_quotes": [
