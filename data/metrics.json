@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T06:38-04:00",
+  "updated_at": "2026-10-13T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -442,6 +442,10 @@
   "log": [
     {
       "date": "2026-10-13",
+      "text": "Distributor check 13 Oct 2026: no replies, none due"
+    },
+    {
+      "date": "2026-10-13",
       "text": "Metrics refresh 13 Oct: Kettlon inbound 7d 29->26 (rolling window 6-13 Oct; 5-6 Oct ACDD, Meyer, Alibaba and Smart Prep traffic aged out; new: Alibaba seller messages 12 Oct (Apollo Fitness) and 13 Oct (Shandong Dleap solicitation)), replied 18->16 (ACDD and Meyer 5 Oct threads aged out), awaiting 0 (Alibaba notifications and solicitations held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (*.github.io cert). No Amazon verification-passed email from Seller Central; 12 Oct 4 PM Attention Report states a 10:55 AM ET Seller Central check showed all four stores Active and Account Health Healthy, tax interview open; gates left unchanged pending Seller Central confirmation. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -555,10 +559,6 @@
     {
       "date": "2026-10-03",
       "text": "Supplier check 3 Oct 2026: no new supplier replies. Follow-up 1 due 5 Oct (Reptile Supply Co. by email; Modern Toyota, Wahl, American Safety manual)."
-    },
-    {
-      "date": "2026-10-03",
-      "text": "Metrics refresh 3 Oct: inbound 7d 39->51, replied 3->2 (Smart Prep sent new meeting reminder 10:05 UTC, unanswered <24h). 0 waitlist/warranty forms. No Amazon verification-passed email. HTTPS cert still *.github.io. Instagram counts not reachable today; Comet offline so Meta ads and Seller Central skipped."
     }
   ],
   "supplier_quotes": [
