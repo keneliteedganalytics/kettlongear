@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T09:21-04:00",
+  "updated_at": "2026-10-14T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-13; curl exit 60, cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-14; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -131,12 +131,16 @@
       {
         "date": "2026-10-13",
         "signups": 0
+      },
+      {
+        "date": "2026-10-14",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 26,
+    "kettlon_inbound_7d": 27,
     "replied_7d": 16,
     "awaiting_ken": 0,
     "held_drafts": [
@@ -441,6 +445,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-14",
+      "text": "Metrics refresh 14 Oct: Kettlon inbound 7d 26->27 (rolling window 7-14 Oct; 7 Oct Smart Prep reminder aged out; new: Alibaba seller message 13 Oct 20:25 UTC), replied 16 (unchanged), awaiting 0 (Alibaba notifications, UENI/Kapspulse/Standard Ops solicitations, Smart Prep reminder held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60, *.github.io cert). No Amazon verification-passed email from Seller Central; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-13",
       "text": "Distributor check 13 Oct 2026: no replies, none due"
     },
@@ -555,10 +563,6 @@
     {
       "date": "2026-10-04",
       "text": "Metrics refresh 4 Oct: inbound 7d 51->63 (Alibaba seller messages, Smart Prep reminder 10:05 UTC, Helium 10), replied 2, awaiting 0. 0 waitlist/warranty forms. No Amazon verification-passed email. HTTPS cert still *.github.io. Instagram counts not reachable today; Comet offline so Meta ads and Seller Central skipped."
-    },
-    {
-      "date": "2026-10-03",
-      "text": "Supplier check 3 Oct 2026: no new supplier replies. Follow-up 1 due 5 Oct (Reptile Supply Co. by email; Modern Toyota, Wahl, American Safety manual)."
     }
   ],
   "supplier_quotes": [
