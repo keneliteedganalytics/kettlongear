@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T06:38-04:00",
+  "updated_at": "2026-10-15T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -450,6 +450,10 @@
   "log": [
     {
       "date": "2026-10-15",
+      "text": "15 Oct 2026 distributor check: no new replies or bounces; no follow-ups due; next due 16 Oct Great Lakes Wholesale follow-up 2."
+    },
+    {
+      "date": "2026-10-15",
       "text": "Metrics refresh 15 Oct: Kettlon inbound 7d 27->28 (window 8-15 Oct; 8 Oct Smart Prep lead aged out; new: Alibaba promo 14 Oct 19:48 UTC, Nantong Onestar seller card from Cathy Miao 15 Oct 05:15 UTC, under 24h), replied 16 (unchanged), awaiting 0. 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -563,10 +567,6 @@
     {
       "date": "2026-10-04",
       "text": "Alibaba stand-down sent to all 7 supplier conversations; Meta campaign Kettlon Prelaunch Traffic turned off (103.46 USD spent, 101 landing page views)"
-    },
-    {
-      "date": "2026-10-04",
-      "text": "Wholesale-only pivot. Private-label lanes closed, budget folded to 40,000 wholesale, screen v2 and 36-name distributor target list published, three distributor inquiries sent."
     }
   ],
   "supplier_quotes": [
