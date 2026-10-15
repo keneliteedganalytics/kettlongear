@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T09:21-04:00",
+  "updated_at": "2026-10-15T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-14; curl exit 60, cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-15; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -135,12 +135,16 @@
       {
         "date": "2026-10-14",
         "signups": 0
+      },
+      {
+        "date": "2026-10-15",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 27,
+    "kettlon_inbound_7d": 28,
     "replied_7d": 16,
     "awaiting_ken": 0,
     "held_drafts": [
@@ -445,6 +449,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-15",
+      "text": "Metrics refresh 15 Oct: Kettlon inbound 7d 27->28 (window 8-15 Oct; 8 Oct Smart Prep lead aged out; new: Alibaba promo 14 Oct 19:48 UTC, Nantong Onestar seller card from Cathy Miao 15 Oct 05:15 UTC, under 24h), replied 16 (unchanged), awaiting 0. 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-14",
       "text": "Distributor check 14 Oct 2026: no replies, none due"
     },
@@ -559,10 +567,6 @@
     {
       "date": "2026-10-04",
       "text": "Wholesale-only pivot. Private-label lanes closed, budget folded to 40,000 wholesale, screen v2 and 36-name distributor target list published, three distributor inquiries sent."
-    },
-    {
-      "date": "2026-10-04",
-      "text": "4 Oct 2026 supplier check: no replies from Modern Toyota, Wahl, Reptile Supply Co. or American Safety. No follow-ups due until 5 Oct."
     }
   ],
   "supplier_quotes": [
