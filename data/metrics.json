@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T06:39-04:00",
+  "updated_at": "2026-10-16T09:22-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -380,8 +380,9 @@
           "name": "Great Lakes Wholesale",
           "to": "sales@glwholesale.com",
           "date": "2026-10-04",
-          "status": "awaiting reply; follow-up 1 sent 2026-10-09; follow-up 2 due 2026-10-16",
-          "followup_1_sent": "2026-10-09"
+          "status": "awaiting reply; follow-up 1 sent 2026-10-09; follow-up 2 (final) sent 2026-10-16; mark No response if silent by 2026-10-23",
+          "followup_1_sent": "2026-10-09",
+          "followup_2_sent": "2026-10-16"
         },
         {
           "name": "Turn 14 Distribution",
@@ -452,6 +453,10 @@
     }
   ],
   "log": [
+    {
+      "date": "2026-10-16",
+      "text": "16 Oct 2026: no distributor replies; Great Lakes Wholesale follow-up 2 (final) sent in-thread"
+    },
     {
       "date": "2026-10-16",
       "text": "Metrics refresh 16 Oct: Kettlon inbound 7d 28->22 (fresh recount, window 9-16 Oct; 8 aged-out 8 Oct items incl. Kapspulse pitch, Alibaba notices, Helium 10, Amazon store-news; new: Alibaba seller message 15 Oct 17:15 UTC, Helium 10 x2 15 Oct, Amazon store-news 16 Oct), replied 16->14 (recount of threads newest from Ken), awaiting 0 (Alibaba notifications and UENI solicitations held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
@@ -567,10 +572,6 @@
     {
       "date": "2026-10-04",
       "text": "Inbox safety net: Animal Supply inquiry bounced on 4 Oct 2026 at 19:12:53 UTC (email 1a108555f526c8a4), recipient-not-found notice with 554 5.4.14 possible mail loop. Ledger and distributor status corrected; follow-ups paused pending verified contact. No resend or payment action."
-    },
-    {
-      "date": "2026-10-04",
-      "text": "kettlongear.com rebuilt as wholesale brand placeholder; wave-1 inquiries sent to Phillips Pet, Meyer, Great Lakes Wholesale and Turn 14"
     }
   ],
   "supplier_quotes": [
