@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:21-04:00",
+  "updated_at": "2026-10-16T06:39-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-15; curl exit 60, cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-16; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -139,13 +139,17 @@
       {
         "date": "2026-10-15",
         "signups": 0
+      },
+      {
+        "date": "2026-10-16",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 28,
-    "replied_7d": 16,
+    "kettlon_inbound_7d": 22,
+    "replied_7d": 14,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -449,6 +453,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-16",
+      "text": "Metrics refresh 16 Oct: Kettlon inbound 7d 28->22 (fresh recount, window 9-16 Oct; 8 aged-out 8 Oct items incl. Kapspulse pitch, Alibaba notices, Helium 10, Amazon store-news; new: Alibaba seller message 15 Oct 17:15 UTC, Helium 10 x2 15 Oct, Amazon store-news 16 Oct), replied 16->14 (recount of threads newest from Ken), awaiting 0 (Alibaba notifications and UENI solicitations held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-15",
       "text": "15 Oct 2026 distributor check: no new replies or bounces; no follow-ups due; next due 16 Oct Great Lakes Wholesale follow-up 2."
     },
@@ -563,10 +571,6 @@
     {
       "date": "2026-10-04",
       "text": "kettlongear.com rebuilt as wholesale brand placeholder; wave-1 inquiries sent to Phillips Pet, Meyer, Great Lakes Wholesale and Turn 14"
-    },
-    {
-      "date": "2026-10-04",
-      "text": "Alibaba stand-down sent to all 7 supplier conversations; Meta campaign Kettlon Prelaunch Traffic turned off (103.46 USD spent, 101 landing page views)"
     }
   ],
   "supplier_quotes": [
