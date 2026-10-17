@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:22-04:00",
+  "updated_at": "2026-10-17T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-16; curl exit 60, cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-17; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -143,13 +143,17 @@
       {
         "date": "2026-10-16",
         "signups": 0
+      },
+      {
+        "date": "2026-10-17",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 22,
-    "replied_7d": 14,
+    "kettlon_inbound_7d": 17,
+    "replied_7d": 12,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -454,6 +458,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-17",
+      "text": "Metrics refresh 17 Oct: Kettlon inbound 7d 22->17 (window 10-17 Oct; 9 Oct items aged out; no new Kettlon mail since 16 Oct 18:46 UTC Helium 10 webinar), replied 14->12 (threads newest from Ken: Great Lakes follow-up 2, Reptile Supply follow-up 2, Jarvis/brief self-sends), awaiting 0 (Alibaba notifications and promos held). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-16",
       "text": "16 Oct 2026: no distributor replies; Great Lakes Wholesale follow-up 2 (final) sent in-thread"
     },
@@ -568,10 +576,6 @@
     {
       "date": "2026-10-05",
       "text": "Metrics refresh 5 Oct: 84 Kettlon inbound emails in 7d (mostly Alibaba seller messages, Amazon, Helium 10, Smart Prep Center), 13 threads last answered by Ken, 0 awaiting (unanswered items are solicitations). 0 waitlist/warranty forms. HTTPS cert still *.github.io. No Amazon verification-passed email; Amazon.ca/.com.br verification prompts 4 Oct. Alibaba drafted Trade Assurance order 155 USD (stadium cushion) awaiting payment after stand-down; not paid. Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
-    },
-    {
-      "date": "2026-10-04",
-      "text": "Inbox safety net: Animal Supply inquiry bounced on 4 Oct 2026 at 19:12:53 UTC (email 1a108555f526c8a4), recipient-not-found notice with 554 5.4.14 possible mail loop. Ledger and distributor status corrected; follow-ups paused pending verified contact. No resend or payment action."
     }
   ],
   "supplier_quotes": [
