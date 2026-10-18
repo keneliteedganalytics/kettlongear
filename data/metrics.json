@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T06:38-04:00",
+  "updated_at": "2026-10-18T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -463,6 +463,10 @@
   "log": [
     {
       "date": "2026-10-18",
+      "text": "18 Oct 2026 distributor check: no new replies or bounces, no follow-ups due"
+    },
+    {
+      "date": "2026-10-18",
       "text": "Metrics refresh 18 Oct: Kettlon inbound 7d 17->18 (window 11-18 Oct; 10 Oct Alibaba Apollo Fitness and Helium 10 items aged out; new: Alibaba sourcing promo 17 Oct 14:17 UTC, Kapspulse Isabelle Sullivan 'Re: Kettlon' video pitch 17 Oct 15:32 UTC, Helium 10 bootcamp 17 Oct 16:04 UTC), replied 12->11 (10 Oct Jarvis self-send aged out), awaiting 0 (Kapspulse is a cold solicitation, under 24h). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -576,10 +580,6 @@
     {
       "date": "2026-10-06",
       "text": "Metrics refresh 6 Oct: Kettlon inbound 7d 84->88 (Smart Prep reminder 10:05 UTC, Alibaba notifications, Meyer/ACD replies), replied 13->11 (external threads last answered by Ken; Smart Prep thread now inbound-newest, under 24h), awaiting 0. 0 waitlist/warranty forms. HTTPS cert still *.github.io. No Amazon verification-passed email. Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
-    },
-    {
-      "date": "2026-10-05",
-      "text": "Distributor reply: ACD Distribution declined online-only Kettlon account; brick-and-mortar store required. Thank-you sent, follow-ups stopped; no price list received."
     }
   ],
   "supplier_quotes": [
