@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:21-04:00",
+  "updated_at": "2026-10-18T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-17; curl exit 60, cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-18; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -147,13 +147,17 @@
       {
         "date": "2026-10-17",
         "signups": 0
+      },
+      {
+        "date": "2026-10-18",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 17,
-    "replied_7d": 12,
+    "kettlon_inbound_7d": 18,
+    "replied_7d": 11,
     "awaiting_ken": 0,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
@@ -458,6 +462,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-18",
+      "text": "Metrics refresh 18 Oct: Kettlon inbound 7d 17->18 (window 11-18 Oct; 10 Oct Alibaba Apollo Fitness and Helium 10 items aged out; new: Alibaba sourcing promo 17 Oct 14:17 UTC, Kapspulse Isabelle Sullivan 'Re: Kettlon' video pitch 17 Oct 15:32 UTC, Helium 10 bootcamp 17 Oct 16:04 UTC), replied 12->11 (10 Oct Jarvis self-send aged out), awaiting 0 (Kapspulse is a cold solicitation, under 24h). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-17",
       "text": "Distributor check 17 Oct 2026: no replies, none due"
     },
@@ -572,10 +580,6 @@
     {
       "date": "2026-10-05",
       "text": "Distributor reply: ACD Distribution declined online-only Kettlon account; brick-and-mortar store required. Thank-you sent, follow-ups stopped; no price list received."
-    },
-    {
-      "date": "2026-10-05",
-      "text": "5 Oct: Meyer Distributing accepts Amazon resellers, sent application and CRT-61 (prefilled, awaiting Ken signature). Reptile Supply Co. follow-up 1 sent. Modern Toyota, Wahl, American Safety follow-ups are manual for Ken."
     }
   ],
   "supplier_quotes": [
