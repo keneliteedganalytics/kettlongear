@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:21-04:00",
+  "updated_at": "2026-10-19T06:38-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -76,7 +76,7 @@
     "domain": "kettlongear.com",
     "http_ok": true,
     "https_ok": false,
-    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-18; curl exit 60, cert CN *.github.io)",
+    "https_note": "GitHub Pages certificate pending (HTTPS handshake still failing as of 2026-10-19; curl exit 60, cert CN *.github.io)",
     "waitlist_signups": 0,
     "warranty_forms": 0,
     "signup_history": [
@@ -151,14 +151,18 @@
       {
         "date": "2026-10-18",
         "signups": 0
+      },
+      {
+        "date": "2026-10-19",
+        "signups": 0
       }
     ],
     "copy": "Brand placeholder (wholesale storefront), published 2026-10-04. Wrist-guard page archived at archive/index_wristguard_2026-09.html. No signup form."
   },
   "email": {
-    "kettlon_inbound_7d": 18,
-    "replied_7d": 11,
-    "awaiting_ken": 0,
+    "kettlon_inbound_7d": 20,
+    "replied_7d": 12,
+    "awaiting_ken": 1,
     "held_drafts": [
       "Fedoris heads-up email (HELD for approval)"
     ]
@@ -462,6 +466,10 @@
   ],
   "log": [
     {
+      "date": "2026-10-19",
+      "text": "Metrics refresh 19 Oct: Kettlon inbound 7d 18->20 (window 12-19 Oct; new Alibaba promos 18 Oct 14:57 UTC and 19 Oct 03:27 UTC; nothing inbound aged out), replied 11->12 (11 Oct attention report aged out; 18 Oct attention report and 19 Oct morning brief added), awaiting 0->1 (Kapspulse Isabelle Sullivan 'Re: Kettlon' video pitch 17 Oct 15:32 UTC, cold solicitation now over 24h). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
+    },
+    {
       "date": "2026-10-18",
       "text": "18 Oct 2026 distributor check: no new replies or bounces, no follow-ups due"
     },
@@ -576,10 +584,6 @@
     {
       "date": "2026-10-06",
       "text": "6 Oct inbox safety net: Big Rock Sports inquiry delivery delayed (notice 1a10e6212c886964, 5 Oct 23:24:30 UTC; remote 451 Open relay not allowed). Gmail retries for 43 more hours, approximately through 7 Oct 18:24:30 UTC; delivery not confirmed, no resend. Supplier ledger and metrics reconciled. Meyer and ACD already answered. Smart Prep reminder repeats unresolved onboarding and payment promotion; held for Ken, no money or credential action. Alibaba acknowledgement needs no reply."
-    },
-    {
-      "date": "2026-10-06",
-      "text": "Metrics refresh 6 Oct: Kettlon inbound 7d 84->88 (Smart Prep reminder 10:05 UTC, Alibaba notifications, Meyer/ACD replies), replied 13->11 (external threads last answered by Ken; Smart Prep thread now inbound-newest, under 24h), awaiting 0. 0 waitlist/warranty forms. HTTPS cert still *.github.io. No Amazon verification-passed email. Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
     }
   ],
   "supplier_quotes": [
