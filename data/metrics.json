@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T06:38-04:00",
+  "updated_at": "2026-10-19T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -282,7 +282,7 @@
         "lane": "Repashy reptile diets",
         "source": "Reptile Supply Co. wholesale (lists Repashy at bulk prices)",
         "source_url": "https://www.reptilesupplyco.com/7_repashy",
-        "status": "Quote requested 30 Sep 2026",
+        "status": "No response from Reptile Supply Co. after follow-ups 5 and 12 Oct 2026; marked 19 Oct 2026; replacement needed",
         "note": "Niche brand with a US wholesale channel. Max buy cost $8.87 on $20.99; typical wholesale is about half of MSRP, so marginal. Quote needed."
       },
       {
@@ -467,6 +467,10 @@
   "log": [
     {
       "date": "2026-10-19",
+      "text": "Distributor check 19 Oct 2026: no replies; Reptile Supply Co. marked No response after final follow-up; none due"
+    },
+    {
+      "date": "2026-10-19",
       "text": "Metrics refresh 19 Oct: Kettlon inbound 7d 18->20 (window 12-19 Oct; new Alibaba promos 18 Oct 14:57 UTC and 19 Oct 03:27 UTC; nothing inbound aged out), replied 11->12 (11 Oct attention report aged out; 18 Oct attention report and 19 Oct morning brief added), awaiting 0->1 (Kapspulse Isabelle Sullivan 'Re: Kettlon' video pitch 17 Oct 15:32 UTC, cold solicitation now over 24h). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -580,10 +584,6 @@
     {
       "date": "2026-10-06",
       "text": "6 Oct 2026 distributor check: no new replies, no follow-ups due; next due 9 Oct"
-    },
-    {
-      "date": "2026-10-06",
-      "text": "6 Oct inbox safety net: Big Rock Sports inquiry delivery delayed (notice 1a10e6212c886964, 5 Oct 23:24:30 UTC; remote 451 Open relay not allowed). Gmail retries for 43 more hours, approximately through 7 Oct 18:24:30 UTC; delivery not confirmed, no resend. Supplier ledger and metrics reconciled. Meyer and ACD already answered. Smart Prep reminder repeats unresolved onboarding and payment promotion; held for Ken, no money or credential action. Alibaba acknowledgement needs no reply."
     }
   ],
   "supplier_quotes": [
