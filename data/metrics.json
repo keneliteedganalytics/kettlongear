@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T06:38-04:00",
+  "updated_at": "2026-10-20T09:21-04:00",
   "updated_by": "Kettlon metrics automation",
   "business": {
     "name": "Kettlon Gear",
@@ -471,6 +471,10 @@
   "log": [
     {
       "date": "2026-10-20",
+      "text": "Distributor check 20 Oct 2026: no replies, no follow-ups due"
+    },
+    {
+      "date": "2026-10-20",
       "text": "Metrics refresh 20 Oct: Kettlon inbound 7d 20->17 (window 13-20 Oct; Alibaba 12 Oct 19:25 UTC, Helium 10 12 Oct 22:05 UTC, Alibaba 13 Oct 08:26 UTC aged out; no new inbound), replied 12->11 (Repashy 12 Oct, 12 Oct attention report, 13 Oct brief aged out; 19 Oct attention report and 20 Oct brief added), awaiting 1 (Kapspulse 'Re: Kettlon' 17 Oct). 0 waitlist/warranty forms. HTTP 200; HTTPS handshake fails (curl exit 60). No Amazon verification-passed email; gates unchanged. Instagram counts not reachable today (HTTP 302 login wall; local browser unavailable). Meta ads and Seller Central skipped: Comet browser not reachable."
     },
     {
@@ -584,10 +588,6 @@
     {
       "date": "2026-10-07",
       "text": "7 Oct inbox safety net: Turn 14 declined Amazon/marketplace seller account at 11:58:42 UTC (1a1163b7c8e583a4); Ken reply already sent 11:59:53 UTC (1a1163c0080f83ce). Ledger and metrics reconciled; follow-ups stopped; no duplicate reply. Big Rock remains delivery delayed; latest notice 6 Oct 20:34:15 UTC says 22 more retry hours, approximately through 7 Oct 18:34:15 UTC; no resend. Smart Prep repeated payment promotion held for Ken as possible phishing until independently verified; no payment or credentials handled. Marketing excluded."
-    },
-    {
-      "date": "2026-10-07",
-      "text": "Metrics refresh 7 Oct: Kettlon inbound 7d 88->94 (fresh 7-day sweep incl. Smart Prep reminder 7 Oct 10:05 UTC, Big Rock Sports second delay notice 6 Oct 20:34 UTC, Alibaba, Squarespace), replied 11 (no new Ken replies), awaiting 0. 0 waitlist/warranty forms. HTTP 200; HTTPS cert still *.github.io. No Amazon verification-passed email. Big Rock Sports delivery still delayed (451 Open relay not allowed; Gmail retry window about 22h from 6 Oct 20:34 UTC). Instagram counts not reachable today (HTTP 302, Comet offline). Meta ads and Seller Central skipped: Comet browser not reachable."
     }
   ],
   "supplier_quotes": [
